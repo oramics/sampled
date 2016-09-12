@@ -1,10 +1,39 @@
-# Samples
+# Sampled
 
-This repository is a collection of sampled instruments with public domain or similar license. The purpose to this project is to provide ready to use samples easily for (mostly) audio web applications.
+This repository is a collection of sampled instruments with public domain or similar license. The purpose is to provide accesible and ready to use quality samples for audio applications (specifically audio web apps).
+
+## Fetching instruments or samples
+
+All samples and metadata are available through github.io in this base url:
+https://danigb.github.io/sampled
+
+For example:
+
+- Instrument metadata: https://danigb.github.io/sampled/CR-78/instrument.json
+- All samples in .json packed format: https://danigb.github.io/sampled/CR-78/CR-78.json
+- Single sample: https://danigb.github.io/sampled/CR-78/samples/cowbell.wav
+
+You can use `audio-loader` or a similar module to fetch instruments. For example, loading all samples at once:
+
+```js
+var ac = new AudioContext()
+var loader = require('audio-loader')
+loader.load(ac, 'https://danigb.github.io/sampled/CR-78/CR-78.json').then(function (samples) {
+  samples['kick'] // => AudioBuffer
+})
+```
+
+Or load a single sample:
+
+```js
+loader.load(ac, 'https://danigb.github.io/sampled/CR-78/samples/cowbell.wav').then(function (cowbell) {
+  cowbell // => AudioBuffer
+})
+```
 
 ## Available instruments
 
-Currently only drum machines are available:
+Currently only some drum machines are available:
 
 - [MRK-2](https://github.com/danigb/smplr/tree/master/packages/drum-machines/MRK-2): Maestro Rhythm King MRK-2.
 - [CR-78](https://github.com/danigb/smplr/tree/master/packages/drum-machines/CR-78): Roland CompuRythm CR-78
