@@ -2,6 +2,15 @@
 
 This repository is a collection of sampled instruments with public domain or similar license. The purpose is to provide accesible and ready to use quality samples for audio applications (specifically audio web apps).
 
+## Available instruments
+
+Currently only some drum machines are available:
+
+- [MRK-2](https://github.com/danigb/smplr/tree/master/packages/drum-machines/MRK-2): Maestro Rhythm King MRK-2.
+- [CR-78](https://github.com/danigb/smplr/tree/master/packages/drum-machines/CR-78): Roland CompuRythm CR-78
+- [TR-505](https://github.com/danigb/smplr/tree/master/packages/drum-machines/TR-505): Roland TR-505
+- [CR-78](https://github.com/danigb/smplr/tree/master/packages/drum-machines/CR-78): Roland CompuRythm CR-78
+
 ## Fetching instruments or samples
 
 All samples and metadata are available through github.io in this base url:
@@ -31,15 +40,6 @@ loader.load(ac, 'https://danigb.github.io/sampled/CR-78/samples/cowbell.wav').th
 })
 ```
 
-## Available instruments
-
-Currently only some drum machines are available:
-
-- [MRK-2](https://github.com/danigb/smplr/tree/master/packages/drum-machines/MRK-2): Maestro Rhythm King MRK-2.
-- [CR-78](https://github.com/danigb/smplr/tree/master/packages/drum-machines/CR-78): Roland CompuRythm CR-78
-- [TR-505](https://github.com/danigb/smplr/tree/master/packages/drum-machines/TR-505): Roland TR-505
-- [CR-78](https://github.com/danigb/smplr/tree/master/packages/drum-machines/CR-78): Roland CompuRythm CR-78
-
 ## Contribute with a sampled instrument
 
 To contribute to this project you have to:
@@ -53,9 +53,9 @@ To contribute to this project you have to:
 - Update the `instruments.json` file with the new instrument
 - Make a pull request
 
-## Drum machines sample naming conventions
+#### Drum machines sample naming conventions
 
-The samples audio files must be named: `inst-variation.ext` where `inst` is the instrument name and `variation` is optional. For example: `snare.wav`, `hihat-open.wav` and `hihat-closed.wav` are valid names. Variations can be nested: `hihat-open-h.wav`
+The samples audio files should be named: `inst-variation.ext` where `inst` is the instrument name and `variation` is optional. For example: `snare.wav`, `hihat-open.wav` and `hihat-closed.wav` are valid names. Variations can be nested: `hihat-open-h.wav`
 
 #### Using letters to create variations
 
