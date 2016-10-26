@@ -35,10 +35,11 @@ loader.load(ac, 'https://danigb.github.io/sampled/CR-78/samples/cowbell.wav').th
 
 Currently only some drum machines are available:
 
-- [MRK-2](https://github.com/danigb/smplr/tree/master/packages/drum-machines/MRK-2): Maestro Rhythm King MRK-2.
-- [CR-78](https://github.com/danigb/smplr/tree/master/packages/drum-machines/CR-78): Roland CompuRythm CR-78
-- [TR-505](https://github.com/danigb/smplr/tree/master/packages/drum-machines/TR-505): Roland TR-505
-- [CR-78](https://github.com/danigb/smplr/tree/master/packages/drum-machines/CR-78): Roland CompuRythm CR-78
+- [CR-78](https://github.com/danigb/sampled/tree/master/CR-78): Roland CompuRythm CR-78
+- [LM-2](https://github.com/danigb/sampled/tree/master/LM-2): LinnDrum LM-2
+- [MRK-2](https://github.com/danigb/sampled/tree/master/MRK-2): Maestro Rhythm King MRK-2.
+- [TR-505](https://github.com/danigb/sampled/tree/master/TR-505): Roland TR-505
+- [CR-78](https://github.com/danigb/sampled/tree/master/CR-78): Roland CompuRythm CR-78
 
 ## Contribute with a sampled instrument
 
