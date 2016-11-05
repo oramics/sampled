@@ -1,7 +1,8 @@
 {
-  "name": "drum-machines",
-  "version": "0.0.1",
-  "description": "Drum machines collection",
+  "name": "sampled",
+  "private": true,
+  "version": "0.0.2",
+  "description": "Collection of sampled instruments, loops and impulse responses",
   "repository": "https://github.com/danigb/smplr/tree/master/packages/drum-machines",
   "keywords": [
     "drum",
@@ -11,14 +12,20 @@
     "audio",
     "webaudio",
     "instrument",
-    "smplr"
+    "impulse responses",
+    "loops",
+    "sampled"
   ],
   "author": "danigb <danigb@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danigb/smplr/issues"
+    "url": "https://github.com/danigb/sampled/issues"
   },
   "devDependencies": {
-    "hyperscript": "^1.4.7"
+    "hyperscript": "^1.4.7",
+    "metalsmith": "^2.3.0",
+    "minimatch": "^3.0.3",
+    "to-capital-case": "^1.0.0",
+    "to-snake-case": "^1.0.0"
   }
 }

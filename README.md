@@ -9,11 +9,11 @@ Read [USAGE](https://github.com/danigb/sampled/tree/master/USAGE.md) or
 
 Drum machines:
 
-- [CR-78](https://github.com/danigb/sampled/tree/master/CR-78): Roland CompuRythm CR-78
-- [LM-2](https://github.com/danigb/sampled/tree/master/LM-2): LinnDrum LM-2
-- [MRK-2](https://github.com/danigb/sampled/tree/master/MRK-2): Maestro Rhythm King MRK-2.
-- [TR-505](https://github.com/danigb/sampled/tree/master/TR-505): Roland TR-505
-- [CR-78](https://github.com/danigb/sampled/tree/master/CR-78): Roland CompuRythm CR-78
+- [CR-78](https://github.com/danigb/sampled/tree/master/DM/CR-78): Roland CompuRythm CR-78
+- [LM-2](https://github.com/danigb/sampled/tree/master/DM/LM-2): LinnDrum LM-2
+- [MRK-2](https://github.com/danigb/sampled/tree/master/DM/MRK-2): Maestro Rhythm King MRK-2.
+- [TR-505](https://github.com/danigb/sampled/tree/master/DM/TR-505): Roland TR-505
+- [CR-78](https://github.com/danigb/sampled/tree/master/DM/CR-78): Roland CompuRythm CR-78
 
 Impulse responses:
 

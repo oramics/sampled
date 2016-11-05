@@ -1,8 +1,7 @@
 {
   "name": "Linn LM-2",
   "description": "LinnDrum LM-2",
-  "url": "https://danigb.github.io/sampled/LM-2",
-  "repository": "https://github.com/danigb/sampled/tree/master/LM-2",
+  "url": "https://danigb.github.io/sampled/DM/LM-2/",
   "source": "http://machines.hyperreal.org/manufacturers/Linn/LinnDrum/",
   "license": "Public Domain",
 }
