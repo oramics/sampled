@@ -1,0 +1,25 @@
+{
+  "name": "EMT-140",
+  "type": "Inpulse Responses",
+  "description": "Greg Hopkins EMT 140 Plate Reverb Impulse Response",
+  "url": "https://danigb.github.io/sampled/IR/EMT140-Plate/",
+  "source": "https://www.facebook.com/hopkinsmediaservices/",
+  "license": "Creative Commons Attibution-Any",
+  "files": {
+    "Emt 140 Bright 1": "samples/emt_140_bright_1.wav",
+    "Emt 140 Bright 2": "samples/emt_140_bright_2.wav",
+    "Emt 140 Bright 3": "samples/emt_140_bright_3.wav",
+    "Emt 140 Bright 4": "samples/emt_140_bright_4.wav",
+    "Emt 140 Dark 1": "samples/emt_140_dark_1.wav",
+    "Emt 140 Bright 5": "samples/emt_140_bright_5.wav",
+    "Emt 140 Dark 2": "samples/emt_140_dark_2.wav",
+    "Emt 140 Dark 3": "samples/emt_140_dark_3.wav",
+    "Emt 140 Dark 4": "samples/emt_140_dark_4.wav",
+    "Emt 140 Dark 5": "samples/emt_140_dark_5.wav",
+    "Emt 140 Medium 1": "samples/emt_140_medium_1.wav",
+    "Emt 140 Medium 3": "samples/emt_140_medium_3.wav",
+    "Emt 140 Medium 2": "samples/emt_140_medium_2.wav",
+    "Emt 140 Medium 4": "samples/emt_140_medium_4.wav",
+    "Emt 140 Medium 5": "samples/emt_140_medium_5.wav"
+  }
+}

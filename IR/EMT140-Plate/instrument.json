@@ -1,10 +1,10 @@
 {
-  "name": "EMT140",
+  "name": "EMT-140",
   "url": "https://danigb.github.io/sampled/IR/EMT140-Plate/",
   "type": "Inpulse Responses",
   "description": "Greg Hopkins EMT 140 Plate Reverb Impulse Response",
   "source": "https://www.facebook.com/hopkinsmediaservices/",
   "license": "Creative Commons Attibution-Any",
-  "samples": "./",
+  "samples": "samples/",
   "pack": false
 }
