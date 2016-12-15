@@ -1,0 +1,30 @@
+{
+  "description": "Roland CompuRythm CR-78",
+  "image": "http://www.boxedear.com/free_files/CR-78%20Small.png",
+  "source": "http://www.boxedear.com/free.html",
+  "license": "Public Domain",
+  "name": "CR-78",
+  "path": "DM/CR-78/",
+  "url": "https://danigb.github.io/sampled/DM/CR-78/",
+  "type": "Drum machine",
+  "files": {
+    "Bongo H": "bongo-h.wav",
+    "Bongo L": "bongo-l.wav",
+    "Conga L": "conga-l.wav",
+    "Cowbell": "cowbell.wav",
+    "Cymbal": "cymbal.wav",
+    "Guiro Long": "guiro-long.wav",
+    "Guiro Short": "guiro-short.wav",
+    "Hihat Accent": "hihat-accent.wav",
+    "Hihat Metal": "hihat-metal.wav",
+    "Hihat": "hihat.wav",
+    "Kick Accent": "kick-accent.wav",
+    "Kick": "kick.wav",
+    "Rim": "rim.wav",
+    "Snare Accent": "snare-accent.wav",
+    "Snare": "snare.wav",
+    "Tamb Long": "tamb-long.wav",
+    "Tamb Short": "tamb-short.wav"
+  },
+  "samples": "samples/"
+}

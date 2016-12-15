@@ -1,0 +1,25 @@
+{
+  "name": "TR-909 Detroit",
+  "description": "Roland TR-909 recorder via API and Neve",
+  "source": "http://www.flstudiomusic.com/2016/09/download-free-909-kits-stems-f9-audio.html",
+  "path": "DM/TR-909/Detroit/",
+  "url": "https://danigb.github.io/sampled/DM/TR-909/Detroit/",
+  "type": "Drum machine",
+  "files": {
+    "Clap 1": "clap-1.wav",
+    "Clap 2": "clap-2.wav",
+    "Cymbal": "cymbal.wav",
+    "Hihat Close": "hihat-close.wav",
+    "Hihat Open 1": "hihat-open-1.wav",
+    "Hihat Closed": "hihat-closed.wav",
+    "Hihat Open 2": "hihat-open-2.wav",
+    "Kick Short": "kick-short.wav",
+    "Kick": "kick.wav",
+    "Ride": "ride.wav",
+    "Snare": "snare.wav",
+    "Rim": "rim.wav",
+    "Tom H": "tom-h.wav",
+    "Tom L": "tom-l.wav"
+  },
+  "samples": "samples/"
+}
