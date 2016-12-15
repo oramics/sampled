@@ -22,10 +22,10 @@
     "url": "https://github.com/danigb/sampled/issues"
   },
   "devDependencies": {
-    "hyperscript": "^1.4.7",
     "metalsmith": "^2.3.0",
     "minimatch": "^3.0.3",
     "to-capital-case": "^1.0.0",
-    "to-snake-case": "^1.0.0"
+    "to-snake-case": "^1.0.0",
+    "metalsmith-ignore": "^0.1.2"
   }
 }

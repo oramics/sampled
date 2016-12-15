@@ -1,1 +1,5 @@
+---
+title: Sampled
+---
+
 # Sampled
