@@ -1,6 +1,6 @@
 [Sampled](https://danigb.github.io/sampled)
 /
-[Drum machines](https://danigb.github.io/sampled/Drum machines)
+[Drum machines](https://danigb.github.io/sampled/DM)
 
 # CR-78
 
@@ -24,8 +24,8 @@
 - __Guiro Long__: [guiro-long.wav](https://danigb.github.io/sampled/DM/CR-78/samples/guiro-long.wav)
 - __Guiro Short__: [guiro-short.wav](https://danigb.github.io/sampled/DM/CR-78/samples/guiro-short.wav)
 - __Hihat Accent__: [hihat-accent.wav](https://danigb.github.io/sampled/DM/CR-78/samples/hihat-accent.wav)
-- __Hihat Metal__: [hihat-metal.wav](https://danigb.github.io/sampled/DM/CR-78/samples/hihat-metal.wav)
 - __Hihat__: [hihat.wav](https://danigb.github.io/sampled/DM/CR-78/samples/hihat.wav)
+- __Hihat Metal__: [hihat-metal.wav](https://danigb.github.io/sampled/DM/CR-78/samples/hihat-metal.wav)
 - __Kick Accent__: [kick-accent.wav](https://danigb.github.io/sampled/DM/CR-78/samples/kick-accent.wav)
 - __Kick__: [kick.wav](https://danigb.github.io/sampled/DM/CR-78/samples/kick.wav)
 - __Rim__: [rim.wav](https://danigb.github.io/sampled/DM/CR-78/samples/rim.wav)
@@ -33,3 +33,36 @@
 - __Snare__: [snare.wav](https://danigb.github.io/sampled/DM/CR-78/samples/snare.wav)
 - __Tamb Long__: [tamb-long.wav](https://danigb.github.io/sampled/DM/CR-78/samples/tamb-long.wav)
 - __Tamb Short__: [tamb-short.wav](https://danigb.github.io/sampled/DM/CR-78/samples/tamb-short.wav)
+### Metadata
+
+```
+{
+  "description": "Roland CompuRythm CR-78",
+  "image": "http://www.boxedear.com/free_files/CR-78%20Small.png",
+  "source": "http://www.boxedear.com/free.html",
+  "license": "Public Domain",
+  "name": "CR-78",
+  "path": "DM/CR-78/",
+  "url": "https://danigb.github.io/sampled/DM/CR-78/",
+  "type": "Drum machine",
+  "files": {
+    "Bongo H": "bongo-h.wav",
+    "Bongo L": "bongo-l.wav",
+    "Conga L": "conga-l.wav",
+    "Cowbell": "cowbell.wav",
+    "Cymbal": "cymbal.wav",
+    "Guiro Long": "guiro-long.wav",
+    "Guiro Short": "guiro-short.wav",
+    "Hihat Accent": "hihat-accent.wav",
+    "Hihat": "hihat.wav",
+    "Hihat Metal": "hihat-metal.wav",
+    "Kick Accent": "kick-accent.wav",
+    "Kick": "kick.wav",
+    "Rim": "rim.wav",
+    "Snare Accent": "snare-accent.wav",
+    "Snare": "snare.wav",
+    "Tamb Long": "tamb-long.wav",
+    "Tamb Short": "tamb-short.wav"
+  },
+  "samples": "samples/"
+}```

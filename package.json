@@ -4,6 +4,9 @@
   "version": "0.0.2",
   "description": "Collection of sampled instruments, loops and impulse responses",
   "repository": "https://github.com/danigb/smplr/tree/master/packages/drum-machines",
+  "scripts": {
+    "build": "node lib/build"
+  },
   "keywords": [
     "drum",
     "machine",

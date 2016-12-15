@@ -1,6 +1,6 @@
 [Sampled](https://danigb.github.io/sampled)
 /
-[Acoustic Drums](https://danigb.github.io/sampled/Acoustic Drums)
+[Acoustic Drums](https://danigb.github.io/sampled/DRUMS)
 
 # Pearl Master Studio
 
@@ -29,3 +29,32 @@
 - __Tom 01__: [tom-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-01.wav)
 - __Tom 02__: [tom-02.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-02.wav)
 - __Tom 03__: [tom-03.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-03.wav)
+### Metadata
+
+```
+{
+  "name": "Pearl Master Studio",
+  "description": "Pearl Master Studio Pack 1 by enoe",
+  "url": "https://danigb.github.io/sampled/DRUMS/pearl-master-studio/",
+  "license": "Creative Commons Attribution 3.0",
+  "path": "DRUMS/pearl-master-studio/",
+  "type": "Acoustic Drum",
+  "files": {
+    "Crash 01": "crash-01.wav",
+    "Crash 02": "crash-02.wav",
+    "Hihat Closed": "hihat-closed.wav",
+    "Hihat Open": "hihat-open.wav",
+    "Kick 01": "kick-01.wav",
+    "Ride 01": "ride-01.wav",
+    "Ride 02": "ride-02.wav",
+    "Snare 01": "snare-01.wav",
+    "Snare 02": "snare-02.wav",
+    "Snare 03": "snare-03.wav",
+    "Splash 01": "splash-01.wav",
+    "Splash 02": "splash-02.wav",
+    "Tom 01": "tom-01.wav",
+    "Tom 02": "tom-02.wav",
+    "Tom 03": "tom-03.wav"
+  },
+  "samples": "samples/"
+}```

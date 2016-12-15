@@ -1,6 +1,6 @@
 [Sampled](https://danigb.github.io/sampled)
 /
-[Drum machines](https://danigb.github.io/sampled/Drum machines)
+[Drum machines](https://danigb.github.io/sampled/DM)
 
 # MRK-2
 
@@ -26,3 +26,29 @@
 - __Kick__: [kick.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/kick.wav)
 - __Snare__: [snare.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/snare.wav)
 - __Tom__: [tom.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/tom.wav)
+### Metadata
+
+```
+{
+  "description": "Maestro Rhythm King MRK-2",
+  "image": "http://www.submodern.com/slowburn/wp-content/uploads/2007/09/maestro480.jpg",
+  "source": "http://www.submodern.com/slowburn/?p=736",
+  "license": "Public Domain",
+  "name": "MRK-2",
+  "path": "DM/MRK-2/",
+  "url": "https://danigb.github.io/sampled/DM/MRK-2/",
+  "type": "Drum machine",
+  "files": {
+    "Block": "block.wav",
+    "Bongo": "bongo.wav",
+    "Clave": "clave.wav",
+    "Cymball Long": "cymball-long.wav",
+    "Cymball Short": "cymball-short.wav",
+    "Hihat Closed": "hihat-closed.wav",
+    "Hihat Open": "hihat-open.wav",
+    "Kick": "kick.wav",
+    "Snare": "snare.wav",
+    "Tom": "tom.wav"
+  },
+  "samples": "samples/"
+}```

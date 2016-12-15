@@ -7,8 +7,8 @@
   "type": "Drum machine",
   "files": {
     "Clap1": "clap1.wav",
-    "Cymbal": "cymbal.wav",
     "Clap2": "clap2.wav",
+    "Cymbal": "cymbal.wav",
     "Hihat Closed 1": "hihat-closed-1.wav",
     "Hihat Closed 2": "hihat-closed-2.wav",
     "Hihat Open 1": "hihat-open-1.wav",
