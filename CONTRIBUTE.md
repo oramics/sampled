@@ -4,9 +4,23 @@ To contribute to this project you have to:
 
 - Fork this repository
 - Create a directory with the name of the instrument
-- Create a instrument.json file with metadata information
+- Create a sampled.config.json file with metadata information
 - Create a subdirectory called samples with the audio files
 - Make a pull request
+
+## sampled.config.json
+
+The configuration file __must__ contain:
+
+- __description__: A text description
+- __source__: an url to the source
+- __licenes__: the license name
+
+The configuration file __may__ contain:
+
+- __name__: The collection name (or the directory name if no one provided)
+- __pack__: if true, it creates a file called `samples.json` with all the samples packed as base64 audio data (to fetch all the samples in one request)
+
 
 ## Drum machines sample naming conventions
 

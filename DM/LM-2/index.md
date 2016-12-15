@@ -1,6 +1,6 @@
 ### Drum machines
 
-# Linn LM-2
+# LM-2
 
 _LinnDrum LM-2_
 

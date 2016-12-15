@@ -5,21 +5,27 @@ This repository is a collection of sampled instruments, loops or impulse respons
 Read [USAGE](https://github.com/danigb/sampled/tree/master/USAGE.md) or
 [CONTRIBUTE](https://github.com/danigb/sampled/tree/master/CONTRIBUTE.md)
 
-## Available instruments
+## Available collections
 
-Drum machines:
+### Drum machines
 
-- [CR-78](https://github.com/danigb/sampled/tree/master/DM/CR-78): Roland CompuRythm CR-78
-- [LM-2](https://github.com/danigb/sampled/tree/master/DM/LM-2): LinnDrum LM-2
-- [MRK-2](https://github.com/danigb/sampled/tree/master/DM/MRK-2): Maestro Rhythm King MRK-2.
-- [TR-505](https://github.com/danigb/sampled/tree/master/DM/TR-505): Roland TR-505
-- [CR-78](https://github.com/danigb/sampled/tree/master/DM/CR-78): Roland CompuRythm CR-78
+- __[CR-78](https://danigb.github.io/sampled/DM/CR-78)__: Roland CompuRythm CR-78
+- __[LM-2](https://danigb.github.io/sampled/DM/LM-2)__: LinnDrum LM-2
+- __[MRK-2](https://danigb.github.io/sampled/DM/MRK-2)__: Maestro Rhythm King MRK-2
+- __[TR-505](https://danigb.github.io/sampled/DM/TR-505)__: Roland TR-505
+- __[TR-909 Detroit](https://danigb.github.io/sampled/DM/TR-909/Detroit)__: Roland TR-909 recorder via API and Neve
 
-Impulse responses:
+### Acoustic Drums
 
-- [EMT-140 Plate](https://github.com/danigb/sampled/tree/master/IR/EMT140-Plate/)
-- [Voxengo Free Reverbs](https://github.com/danigb/sampled/tree/master/IR/Voxengo/)
+- __[Pearl Master Studio](https://danigb.github.io/sampled/DRUMS/pearl-master-studio)__: Pearl Master Studio Pack 1 by enoe
 
-## License
+### Impulse responses
 
-Each instrument has it's own license. All code has MIT License
+- __[EMT-140 Plate](https://danigb.github.io/sampled/IR/EMT140-Plate)__: Greg Hopkins EMT 140 Plate Reverb Impulse Response
+- __[Voxengo-IR](https://danigb.github.io/sampled/IR/Voxengo)__: Voxengo Free Reverb Impulse Responses
+
+## Licenses
+
+Each instrument has it's own license.
+
+All code has MIT License
