@@ -6,10 +6,10 @@
   "url": "https://danigb.github.io/sampled/DM/TR-909/Detroit/",
   "type": "Drum machine",
   "files": {
-    "Clap 2": "clap-2.wav",
     "Clap 1": "clap-1.wav",
-    "Hihat Close": "hihat-close.wav",
+    "Clap 2": "clap-2.wav",
     "Cymbal": "cymbal.wav",
+    "Hihat Close": "hihat-close.wav",
     "Hihat Closed": "hihat-closed.wav",
     "Hihat Open 1": "hihat-open-1.wav",
     "Hihat Open 2": "hihat-open-2.wav",

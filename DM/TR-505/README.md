@@ -32,7 +32,14 @@
 - __Tr505 Tom H__: [tr505-tom-h.wav](https://danigb.github.io/sampled/DM/TR-505/samples/tr505-tom-h.wav)
 - __Tr505 Tom L__: [tr505-tom-l.wav](https://danigb.github.io/sampled/DM/TR-505/samples/tr505-tom-l.wav)
 - __Tr505 Tom M__: [tr505-tom-m.wav](https://danigb.github.io/sampled/DM/TR-505/samples/tr505-tom-m.wav)
+
+
+
+
+
 ### Metadata
+
+[sampled.json](https://danigb.github.io/sampled/DM/TR-505/sampled.json)
 
 ```
 {
@@ -63,4 +70,6 @@
   },
   "samples": "samples/",
   "samplesURL": "https://danigb.github.io/sampled/DM/TR-505/samples/"
-}```
+}
+```
+

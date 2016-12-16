@@ -31,7 +31,14 @@
 - __Tom H__: [tom-h.wav](https://danigb.github.io/sampled/DM/TR-909/SP/samples/tom-h.wav)
 - __Tom L__: [tom-l.wav](https://danigb.github.io/sampled/DM/TR-909/SP/samples/tom-l.wav)
 - __Tom M__: [tom-m.wav](https://danigb.github.io/sampled/DM/TR-909/SP/samples/tom-m.wav)
+
+
+
+
+
 ### Metadata
+
+[sampled.json](https://danigb.github.io/sampled/DM/TR-909/SP/sampled.json)
 
 ```
 {
@@ -61,4 +68,6 @@
   },
   "samples": "samples/",
   "samplesURL": "https://danigb.github.io/sampled/DM/TR-909/SP/samples/"
-}```
+}
+```
+

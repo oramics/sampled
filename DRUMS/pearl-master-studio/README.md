@@ -30,7 +30,14 @@
 - __Tom 01__: [tom-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-01.wav)
 - __Tom 02__: [tom-02.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-02.wav)
 - __Tom 03__: [tom-03.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-03.wav)
+
+
+
+
+
 ### Metadata
+
+[sampled.json](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/sampled.json)
 
 ```
 {
@@ -59,4 +66,6 @@
   },
   "samples": "samples/",
   "samplesURL": "https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/"
-}```
+}
+```
+

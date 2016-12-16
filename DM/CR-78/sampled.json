@@ -8,8 +8,8 @@
   "url": "https://danigb.github.io/sampled/DM/CR-78/",
   "type": "Drum machine",
   "files": {
-    "Bongo H": "bongo-h.wav",
     "Bongo L": "bongo-l.wav",
+    "Bongo H": "bongo-h.wav",
     "Conga L": "conga-l.wav",
     "Cowbell": "cowbell.wav",
     "Cymbal": "cymbal.wav",

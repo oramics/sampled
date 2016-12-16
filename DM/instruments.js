@@ -1,10 +1,4 @@
 {
-  "CR-78": {
-    "name": "CR-78",
-    "description": "Roland CompuRythm CR-78",
-    "type": "Drum machine",
-    "url": "https://danigb.github.io/sampled/DM/CR-78/sampled.json"
-  },
   "LM-2": {
     "name": "LM-2",
     "description": "LinnDrum LM-2",
@@ -22,6 +16,12 @@
     "description": "Roland TR-505",
     "type": "Drum machine",
     "url": "https://danigb.github.io/sampled/DM/TR-505/sampled.json"
+  },
+  "CR-78": {
+    "name": "CR-78",
+    "description": "Roland CompuRythm CR-78",
+    "type": "Drum machine",
+    "url": "https://danigb.github.io/sampled/DM/CR-78/sampled.json"
   },
   "TR-909 Detroit": {
     "name": "TR-909 Detroit",

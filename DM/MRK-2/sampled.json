@@ -9,8 +9,8 @@
   "type": "Drum machine",
   "files": {
     "Block": "block.wav",
-    "Clave": "clave.wav",
     "Bongo": "bongo.wav",
+    "Clave": "clave.wav",
     "Cymball Long": "cymball-long.wav",
     "Cymball Short": "cymball-short.wav",
     "Hihat Closed": "hihat-closed.wav",
