@@ -11,6 +11,7 @@
 - __path__: DRUMS/pearl-master-studio/
 - __type__: Acoustic Drum
 - __samples__: samples/
+- __samplesURL__: https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/
 
 ### Samples
 
@@ -56,5 +57,6 @@
     "Tom 02": "tom-02.wav",
     "Tom 03": "tom-03.wav"
   },
-  "samples": "samples/"
+  "samples": "samples/",
+  "samplesURL": "https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/"
 }```

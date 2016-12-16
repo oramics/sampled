@@ -12,6 +12,7 @@
 - __url__: https://danigb.github.io/sampled/DM/LM-2/
 - __type__: Drum machine
 - __samples__: samples/
+- __samplesURL__: https://danigb.github.io/sampled/DM/LM-2/samples/
 
 ### Samples
 
@@ -23,8 +24,8 @@
 - __Conga Ll__: [conga-ll.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-ll.wav)
 - __Conga Lll__: [conga-lll.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-lll.wav)
 - __Conga M__: [conga-m.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-m.wav)
-- __Crash__: [crash.wav](https://danigb.github.io/sampled/DM/LM-2/samples/crash.wav)
 - __Cowb__: [cowb.wav](https://danigb.github.io/sampled/DM/LM-2/samples/cowb.wav)
+- __Crash__: [crash.wav](https://danigb.github.io/sampled/DM/LM-2/samples/crash.wav)
 - __Hihat Closed Long__: [hihat-closed-long.wav](https://danigb.github.io/sampled/DM/LM-2/samples/hihat-closed-long.wav)
 - __Hihat Closed Short__: [hihat-closed-short.wav](https://danigb.github.io/sampled/DM/LM-2/samples/hihat-closed-short.wav)
 - __Hihat Closed__: [hihat-closed.wav](https://danigb.github.io/sampled/DM/LM-2/samples/hihat-closed.wav)
@@ -64,8 +65,8 @@
     "Conga Ll": "conga-ll.wav",
     "Conga Lll": "conga-lll.wav",
     "Conga M": "conga-m.wav",
-    "Crash": "crash.wav",
     "Cowb": "cowb.wav",
+    "Crash": "crash.wav",
     "Hihat Closed Long": "hihat-closed-long.wav",
     "Hihat Closed Short": "hihat-closed-short.wav",
     "Hihat Closed": "hihat-closed.wav",
@@ -86,5 +87,6 @@
     "Tom Ll": "tom-ll.wav",
     "Tom M": "tom-m.wav"
   },
-  "samples": "samples/"
+  "samples": "samples/",
+  "samplesURL": "https://danigb.github.io/sampled/DM/LM-2/samples/"
 }```

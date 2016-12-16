@@ -15,8 +15,8 @@
     "Conga Ll": "conga-ll.wav",
     "Conga Lll": "conga-lll.wav",
     "Conga M": "conga-m.wav",
-    "Crash": "crash.wav",
     "Cowb": "cowb.wav",
+    "Crash": "crash.wav",
     "Hihat Closed Long": "hihat-closed-long.wav",
     "Hihat Closed Short": "hihat-closed-short.wav",
     "Hihat Closed": "hihat-closed.wav",
@@ -37,5 +37,6 @@
     "Tom Ll": "tom-ll.wav",
     "Tom M": "tom-m.wav"
   },
-  "samples": "samples/"
+  "samples": "samples/",
+  "samplesURL": "https://danigb.github.io/sampled/DM/LM-2/samples/"
 }

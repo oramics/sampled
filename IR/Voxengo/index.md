@@ -12,6 +12,7 @@
 - __url__: https://danigb.github.io/sampled/IR/Voxengo/
 - __type__: Impulse Response
 - __samples__: samples/
+- __samplesURL__: https://danigb.github.io/sampled/IR/Voxengo/samples/
 
 ### Samples
 
@@ -105,5 +106,6 @@
     "Trig Room": "trig_room.wav",
     "Vocal Duo": "vocal_duo.wav"
   },
-  "samples": "samples/"
+  "samples": "samples/",
+  "samplesURL": "https://danigb.github.io/sampled/IR/Voxengo/samples/"
 }```

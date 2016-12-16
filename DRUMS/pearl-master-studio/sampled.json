@@ -22,5 +22,6 @@
     "Tom 02": "tom-02.wav",
     "Tom 03": "tom-03.wav"
   },
-  "samples": "samples/"
+  "samples": "samples/",
+  "samplesURL": "https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/"
 }

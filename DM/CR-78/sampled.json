@@ -16,8 +16,8 @@
     "Guiro Long": "guiro-long.wav",
     "Guiro Short": "guiro-short.wav",
     "Hihat Accent": "hihat-accent.wav",
-    "Hihat": "hihat.wav",
     "Hihat Metal": "hihat-metal.wav",
+    "Hihat": "hihat.wav",
     "Kick Accent": "kick-accent.wav",
     "Kick": "kick.wav",
     "Rim": "rim.wav",
@@ -26,5 +26,6 @@
     "Tamb Long": "tamb-long.wav",
     "Tamb Short": "tamb-short.wav"
   },
-  "samples": "samples/"
+  "samples": "samples/",
+  "samplesURL": "https://danigb.github.io/sampled/DM/CR-78/samples/"
 }

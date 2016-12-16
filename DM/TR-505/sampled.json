@@ -24,5 +24,6 @@
     "Tr505 Tom L": "tr505-tom-l.wav",
     "Tr505 Tom M": "tr505-tom-m.wav"
   },
-  "samples": "samples/"
+  "samples": "samples/",
+  "samplesURL": "https://danigb.github.io/sampled/DM/TR-505/samples/"
 }

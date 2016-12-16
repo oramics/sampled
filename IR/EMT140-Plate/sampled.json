@@ -24,5 +24,6 @@
     "Emt 140 Medium 4": "emt_140_medium_4.wav",
     "Emt 140 Medium 5": "emt_140_medium_5.wav"
   },
-  "samples": "samples/"
+  "samples": "samples/",
+  "samplesURL": "https://danigb.github.io/sampled/IR/EMT140-Plate/samples/"
 }

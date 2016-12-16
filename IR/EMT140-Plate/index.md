@@ -12,6 +12,7 @@
 - __path__: IR/EMT140-Plate/
 - __url__: https://danigb.github.io/sampled/IR/EMT140-Plate/
 - __samples__: samples/
+- __samplesURL__: https://danigb.github.io/sampled/IR/EMT140-Plate/samples/
 
 ### Samples
 
@@ -59,5 +60,6 @@
     "Emt 140 Medium 4": "emt_140_medium_4.wav",
     "Emt 140 Medium 5": "emt_140_medium_5.wav"
   },
-  "samples": "samples/"
+  "samples": "samples/",
+  "samplesURL": "https://danigb.github.io/sampled/IR/EMT140-Plate/samples/"
 }```

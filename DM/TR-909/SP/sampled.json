@@ -23,5 +23,6 @@
     "Tom L": "tom-l.wav",
     "Tom M": "tom-m.wav"
   },
-  "samples": "samples/"
+  "samples": "samples/",
+  "samplesURL": "https://danigb.github.io/sampled/DM/TR-909/SP/samples/"
 }

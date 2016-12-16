@@ -11,6 +11,7 @@
 - __url__: https://danigb.github.io/sampled/DM/TR-909/SP/
 - __type__: Drum machine
 - __samples__: samples/
+- __samplesURL__: https://danigb.github.io/sampled/DM/TR-909/SP/samples/
 
 ### Samples
 
@@ -58,5 +59,6 @@
     "Tom L": "tom-l.wav",
     "Tom M": "tom-m.wav"
   },
-  "samples": "samples/"
+  "samples": "samples/",
+  "samplesURL": "https://danigb.github.io/sampled/DM/TR-909/SP/samples/"
 }```

@@ -47,5 +47,6 @@
     "Trig Room": "trig_room.wav",
     "Vocal Duo": "vocal_duo.wav"
   },
-  "samples": "samples/"
+  "samples": "samples/",
+  "samplesURL": "https://danigb.github.io/sampled/IR/Voxengo/samples/"
 }
