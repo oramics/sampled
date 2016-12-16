@@ -25,8 +25,8 @@
 - __Guiro Long__: [guiro-long.wav](https://danigb.github.io/sampled/DM/CR-78/samples/guiro-long.wav)
 - __Guiro Short__: [guiro-short.wav](https://danigb.github.io/sampled/DM/CR-78/samples/guiro-short.wav)
 - __Hihat Accent__: [hihat-accent.wav](https://danigb.github.io/sampled/DM/CR-78/samples/hihat-accent.wav)
-- __Hihat__: [hihat.wav](https://danigb.github.io/sampled/DM/CR-78/samples/hihat.wav)
 - __Hihat Metal__: [hihat-metal.wav](https://danigb.github.io/sampled/DM/CR-78/samples/hihat-metal.wav)
+- __Hihat__: [hihat.wav](https://danigb.github.io/sampled/DM/CR-78/samples/hihat.wav)
 - __Kick Accent__: [kick-accent.wav](https://danigb.github.io/sampled/DM/CR-78/samples/kick-accent.wav)
 - __Kick__: [kick.wav](https://danigb.github.io/sampled/DM/CR-78/samples/kick.wav)
 - __Rim__: [rim.wav](https://danigb.github.io/sampled/DM/CR-78/samples/rim.wav)
@@ -62,8 +62,8 @@
     "Guiro Long": "guiro-long.wav",
     "Guiro Short": "guiro-short.wav",
     "Hihat Accent": "hihat-accent.wav",
-    "Hihat": "hihat.wav",
     "Hihat Metal": "hihat-metal.wav",
+    "Hihat": "hihat.wav",
     "Kick Accent": "kick-accent.wav",
     "Kick": "kick.wav",
     "Rim": "rim.wav",

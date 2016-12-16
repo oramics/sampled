@@ -21,8 +21,8 @@
 - __Block__: [block.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/block.wav)
 - __Clave__: [clave.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/clave.wav)
 - __Cymball Long__: [cymball-long.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/cymball-long.wav)
-- __Hihat Closed__: [hihat-closed.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/hihat-closed.wav)
 - __Cymball Short__: [cymball-short.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/cymball-short.wav)
+- __Hihat Closed__: [hihat-closed.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/hihat-closed.wav)
 - __Hihat Open__: [hihat-open.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/hihat-open.wav)
 - __Kick__: [kick.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/kick.wav)
 - __Snare__: [snare.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/snare.wav)
@@ -51,8 +51,8 @@
     "Block": "block.wav",
     "Clave": "clave.wav",
     "Cymball Long": "cymball-long.wav",
-    "Hihat Closed": "hihat-closed.wav",
     "Cymball Short": "cymball-short.wav",
+    "Hihat Closed": "hihat-closed.wav",
     "Hihat Open": "hihat-open.wav",
     "Kick": "kick.wav",
     "Snare": "snare.wav",

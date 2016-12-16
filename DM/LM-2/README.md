@@ -23,8 +23,8 @@
 - __Conga L__: [conga-l.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-l.wav)
 - __Conga Ll__: [conga-ll.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-ll.wav)
 - __Conga Lll__: [conga-lll.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-lll.wav)
-- __Conga M__: [conga-m.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-m.wav)
 - __Cowb__: [cowb.wav](https://danigb.github.io/sampled/DM/LM-2/samples/cowb.wav)
+- __Conga M__: [conga-m.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-m.wav)
 - __Crash__: [crash.wav](https://danigb.github.io/sampled/DM/LM-2/samples/crash.wav)
 - __Hihat Closed Long__: [hihat-closed-long.wav](https://danigb.github.io/sampled/DM/LM-2/samples/hihat-closed-long.wav)
 - __Hihat Closed Short__: [hihat-closed-short.wav](https://danigb.github.io/sampled/DM/LM-2/samples/hihat-closed-short.wav)
@@ -41,8 +41,8 @@
 - __Stick M__: [stick-m.wav](https://danigb.github.io/sampled/DM/LM-2/samples/stick-m.wav)
 - __Tamb__: [tamb.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tamb.wav)
 - __Tom H__: [tom-h.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-h.wav)
-- __Tom L__: [tom-l.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-l.wav)
 - __Tom Hh__: [tom-hh.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-hh.wav)
+- __Tom L__: [tom-l.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-l.wav)
 - __Tom Ll__: [tom-ll.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-ll.wav)
 - __Tom M__: [tom-m.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-m.wav)
 
@@ -71,8 +71,8 @@
     "Conga L": "conga-l.wav",
     "Conga Ll": "conga-ll.wav",
     "Conga Lll": "conga-lll.wav",
-    "Conga M": "conga-m.wav",
     "Cowb": "cowb.wav",
+    "Conga M": "conga-m.wav",
     "Crash": "crash.wav",
     "Hihat Closed Long": "hihat-closed-long.wav",
     "Hihat Closed Short": "hihat-closed-short.wav",
@@ -89,8 +89,8 @@
     "Stick M": "stick-m.wav",
     "Tamb": "tamb.wav",
     "Tom H": "tom-h.wav",
-    "Tom L": "tom-l.wav",
     "Tom Hh": "tom-hh.wav",
+    "Tom L": "tom-l.wav",
     "Tom Ll": "tom-ll.wav",
     "Tom M": "tom-m.wav"
   },

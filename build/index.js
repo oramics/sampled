@@ -136,7 +136,7 @@ function toHTML (title, md, style = 'air') {
   <html>
   <title>${title}</title>
   <meta charset="UTF-8">
-  <link rel="stylesheet" href="http://markdowncss.github.io/${style}/css/${style}.css">
+  <link rel="stylesheet" href="https://markdowncss.github.io/${style}/css/${style}.css">
   <body>
     ${converter.makeHtml(md)}
   </body>

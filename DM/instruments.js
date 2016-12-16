@@ -1,10 +1,4 @@
 {
-  "LM-2": {
-    "name": "LM-2",
-    "description": "LinnDrum LM-2",
-    "type": "Drum machine",
-    "url": "https://danigb.github.io/sampled/DM/LM-2/"
-  },
   "CR-78": {
     "name": "CR-78",
     "description": "Roland CompuRythm CR-78",
@@ -16,6 +10,12 @@
     "description": "Maestro Rhythm King MRK-2",
     "type": "Drum machine",
     "url": "https://danigb.github.io/sampled/DM/MRK-2/"
+  },
+  "LM-2": {
+    "name": "LM-2",
+    "description": "LinnDrum LM-2",
+    "type": "Drum machine",
+    "url": "https://danigb.github.io/sampled/DM/LM-2/"
   },
   "TR-505": {
     "name": "TR-505",
