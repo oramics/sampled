@@ -23,7 +23,7 @@ Files('build', (files) => {
       files[inst.path + 'sampled.json'] = objToFile(inst.meta)
       updateIndices(all, groups, inst)
       files[inst.path + 'README.md'] = strToFile(instPage(inst))
-      files[inst.path + 'index.html'] = toHTML(inst.name, instPage(inst))
+      files[inst.path + 'index.html'] = toHTML(inst.meta.name, instPage(inst))
     }
   }
   files['instruments.json'] = objToFile(all)
@@ -112,7 +112,7 @@ function instPage (instrument) {
 }
 
 function homePage (groups) {
-  var md = '# Sampled\n\n\n'
+  var md = '\n'
   Object.keys(groups).forEach(function (group) {
     md += groupPage(group, groups[group])
   })

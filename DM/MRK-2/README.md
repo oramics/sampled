@@ -17,8 +17,8 @@
 
 ### Samples
 
-- __Bongo__: [bongo.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/bongo.wav)
 - __Block__: [block.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/block.wav)
+- __Bongo__: [bongo.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/bongo.wav)
 - __Clave__: [clave.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/clave.wav)
 - __Cymball Long__: [cymball-long.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/cymball-long.wav)
 - __Cymball Short__: [cymball-short.wav](https://danigb.github.io/sampled/DM/MRK-2/samples/cymball-short.wav)
@@ -47,8 +47,8 @@
   "url": "https://danigb.github.io/sampled/DM/MRK-2/",
   "type": "Drum machine",
   "files": {
-    "Bongo": "bongo.wav",
     "Block": "block.wav",
+    "Bongo": "bongo.wav",
     "Clave": "clave.wav",
     "Cymball Long": "cymball-long.wav",
     "Cymball Short": "cymball-short.wav",

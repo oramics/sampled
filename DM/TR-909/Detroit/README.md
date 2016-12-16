@@ -15,8 +15,8 @@
 
 ### Samples
 
-- __Clap 1__: [clap-1.wav](https://danigb.github.io/sampled/DM/TR-909/Detroit/samples/clap-1.wav)
 - __Clap 2__: [clap-2.wav](https://danigb.github.io/sampled/DM/TR-909/Detroit/samples/clap-2.wav)
+- __Clap 1__: [clap-1.wav](https://danigb.github.io/sampled/DM/TR-909/Detroit/samples/clap-1.wav)
 - __Cymbal__: [cymbal.wav](https://danigb.github.io/sampled/DM/TR-909/Detroit/samples/cymbal.wav)
 - __Hihat Close__: [hihat-close.wav](https://danigb.github.io/sampled/DM/TR-909/Detroit/samples/hihat-close.wav)
 - __Hihat Closed__: [hihat-closed.wav](https://danigb.github.io/sampled/DM/TR-909/Detroit/samples/hihat-closed.wav)
@@ -47,8 +47,8 @@
   "url": "https://danigb.github.io/sampled/DM/TR-909/Detroit/",
   "type": "Drum machine",
   "files": {
-    "Clap 1": "clap-1.wav",
     "Clap 2": "clap-2.wav",
+    "Clap 1": "clap-1.wav",
     "Cymbal": "cymbal.wav",
     "Hihat Close": "hihat-close.wav",
     "Hihat Closed": "hihat-closed.wav",

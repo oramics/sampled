@@ -8,8 +8,8 @@
   "url": "https://danigb.github.io/sampled/DM/MRK-2/",
   "type": "Drum machine",
   "files": {
-    "Bongo": "bongo.wav",
     "Block": "block.wav",
+    "Bongo": "bongo.wav",
     "Clave": "clave.wav",
     "Cymball Long": "cymball-long.wav",
     "Cymball Short": "cymball-short.wav",

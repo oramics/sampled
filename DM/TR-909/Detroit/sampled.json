@@ -6,8 +6,8 @@
   "url": "https://danigb.github.io/sampled/DM/TR-909/Detroit/",
   "type": "Drum machine",
   "files": {
-    "Clap 1": "clap-1.wav",
     "Clap 2": "clap-2.wav",
+    "Clap 1": "clap-1.wav",
     "Cymbal": "cymbal.wav",
     "Hihat Close": "hihat-close.wav",
     "Hihat Closed": "hihat-closed.wav",
