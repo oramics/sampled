@@ -23,23 +23,23 @@
 - __Conga L__: [conga-l.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-l.wav)
 - __Conga Ll__: [conga-ll.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-ll.wav)
 - __Conga Lll__: [conga-lll.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-lll.wav)
-- __Cowb__: [cowb.wav](https://danigb.github.io/sampled/DM/LM-2/samples/cowb.wav)
 - __Conga M__: [conga-m.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-m.wav)
+- __Cowb__: [cowb.wav](https://danigb.github.io/sampled/DM/LM-2/samples/cowb.wav)
 - __Crash__: [crash.wav](https://danigb.github.io/sampled/DM/LM-2/samples/crash.wav)
 - __Hihat Closed Long__: [hihat-closed-long.wav](https://danigb.github.io/sampled/DM/LM-2/samples/hihat-closed-long.wav)
 - __Hihat Closed Short__: [hihat-closed-short.wav](https://danigb.github.io/sampled/DM/LM-2/samples/hihat-closed-short.wav)
-- __Hihat Closed__: [hihat-closed.wav](https://danigb.github.io/sampled/DM/LM-2/samples/hihat-closed.wav)
 - __Hihat Open__: [hihat-open.wav](https://danigb.github.io/sampled/DM/LM-2/samples/hihat-open.wav)
+- __Hihat Closed__: [hihat-closed.wav](https://danigb.github.io/sampled/DM/LM-2/samples/hihat-closed.wav)
 - __Kick Alt__: [kick-alt.wav](https://danigb.github.io/sampled/DM/LM-2/samples/kick-alt.wav)
 - __Kick__: [kick.wav](https://danigb.github.io/sampled/DM/LM-2/samples/kick.wav)
 - __Ride__: [ride.wav](https://danigb.github.io/sampled/DM/LM-2/samples/ride.wav)
 - __Snare H__: [snare-h.wav](https://danigb.github.io/sampled/DM/LM-2/samples/snare-h.wav)
 - __Snare L__: [snare-l.wav](https://danigb.github.io/sampled/DM/LM-2/samples/snare-l.wav)
 - __Snare M__: [snare-m.wav](https://danigb.github.io/sampled/DM/LM-2/samples/snare-m.wav)
-- __Stick H__: [stick-h.wav](https://danigb.github.io/sampled/DM/LM-2/samples/stick-h.wav)
 - __Stick L__: [stick-l.wav](https://danigb.github.io/sampled/DM/LM-2/samples/stick-l.wav)
-- __Stick M__: [stick-m.wav](https://danigb.github.io/sampled/DM/LM-2/samples/stick-m.wav)
+- __Stick H__: [stick-h.wav](https://danigb.github.io/sampled/DM/LM-2/samples/stick-h.wav)
 - __Tamb__: [tamb.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tamb.wav)
+- __Stick M__: [stick-m.wav](https://danigb.github.io/sampled/DM/LM-2/samples/stick-m.wav)
 - __Tom H__: [tom-h.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-h.wav)
 - __Tom Hh__: [tom-hh.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-hh.wav)
 - __Tom L__: [tom-l.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-l.wav)
@@ -71,23 +71,23 @@
     "Conga L": "conga-l.wav",
     "Conga Ll": "conga-ll.wav",
     "Conga Lll": "conga-lll.wav",
-    "Cowb": "cowb.wav",
     "Conga M": "conga-m.wav",
+    "Cowb": "cowb.wav",
     "Crash": "crash.wav",
     "Hihat Closed Long": "hihat-closed-long.wav",
     "Hihat Closed Short": "hihat-closed-short.wav",
-    "Hihat Closed": "hihat-closed.wav",
     "Hihat Open": "hihat-open.wav",
+    "Hihat Closed": "hihat-closed.wav",
     "Kick Alt": "kick-alt.wav",
     "Kick": "kick.wav",
     "Ride": "ride.wav",
     "Snare H": "snare-h.wav",
     "Snare L": "snare-l.wav",
     "Snare M": "snare-m.wav",
-    "Stick H": "stick-h.wav",
     "Stick L": "stick-l.wav",
-    "Stick M": "stick-m.wav",
+    "Stick H": "stick-h.wav",
     "Tamb": "tamb.wav",
+    "Stick M": "stick-m.wav",
     "Tom H": "tom-h.wav",
     "Tom Hh": "tom-hh.wav",
     "Tom L": "tom-l.wav",

@@ -131,7 +131,7 @@ function groupPage (id, group) {
 }
 
 // const STYLES = ['modest', 'retro', 'air']
-function toHTML (title, md, style = 'air') {
+function toHTML (title, md, style = 'modest') {
   return strToFile(`<!DOCTYPE html>
   <html>
   <title>${title}</title>

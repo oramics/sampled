@@ -25,8 +25,8 @@
 - __Tr505 Hihat Closed__: [tr505-hihat-closed.wav](https://danigb.github.io/sampled/DM/TR-505/samples/tr505-hihat-closed.wav)
 - __Tr505 Hihat Open__: [tr505-hihat-open.wav](https://danigb.github.io/sampled/DM/TR-505/samples/tr505-hihat-open.wav)
 - __Tr505 Kick__: [tr505-kick.wav](https://danigb.github.io/sampled/DM/TR-505/samples/tr505-kick.wav)
-- __Tr505 Ride__: [tr505-ride.wav](https://danigb.github.io/sampled/DM/TR-505/samples/tr505-ride.wav)
 - __Tr505 Rim__: [tr505-rim.wav](https://danigb.github.io/sampled/DM/TR-505/samples/tr505-rim.wav)
+- __Tr505 Ride__: [tr505-ride.wav](https://danigb.github.io/sampled/DM/TR-505/samples/tr505-ride.wav)
 - __Tr505 Snare__: [tr505-snare.wav](https://danigb.github.io/sampled/DM/TR-505/samples/tr505-snare.wav)
 - __Tr505 Timbal__: [tr505-timbal.wav](https://danigb.github.io/sampled/DM/TR-505/samples/tr505-timbal.wav)
 - __Tr505 Tom H__: [tr505-tom-h.wav](https://danigb.github.io/sampled/DM/TR-505/samples/tr505-tom-h.wav)
@@ -60,8 +60,8 @@
     "Tr505 Hihat Closed": "tr505-hihat-closed.wav",
     "Tr505 Hihat Open": "tr505-hihat-open.wav",
     "Tr505 Kick": "tr505-kick.wav",
-    "Tr505 Ride": "tr505-ride.wav",
     "Tr505 Rim": "tr505-rim.wav",
+    "Tr505 Ride": "tr505-ride.wav",
     "Tr505 Snare": "tr505-snare.wav",
     "Tr505 Timbal": "tr505-timbal.wav",
     "Tr505 Tom H": "tr505-tom-h.wav",

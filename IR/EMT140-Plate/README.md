@@ -16,8 +16,8 @@
 
 ### Samples
 
-- __Emt 140 Bright 1__: [emt_140_bright_1.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_1.wav)
 - __Emt 140 Bright 2__: [emt_140_bright_2.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_2.wav)
+- __Emt 140 Bright 1__: [emt_140_bright_1.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_1.wav)
 - __Emt 140 Bright 3__: [emt_140_bright_3.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_3.wav)
 - __Emt 140 Bright 4__: [emt_140_bright_4.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_4.wav)
 - __Emt 140 Bright 5__: [emt_140_bright_5.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_5.wav)
@@ -51,8 +51,8 @@
   "path": "IR/EMT140-Plate/",
   "url": "https://danigb.github.io/sampled/IR/EMT140-Plate/",
   "files": {
-    "Emt 140 Bright 1": "emt_140_bright_1.wav",
     "Emt 140 Bright 2": "emt_140_bright_2.wav",
+    "Emt 140 Bright 1": "emt_140_bright_1.wav",
     "Emt 140 Bright 3": "emt_140_bright_3.wav",
     "Emt 140 Bright 4": "emt_140_bright_4.wav",
     "Emt 140 Bright 5": "emt_140_bright_5.wav",
