@@ -27,8 +27,8 @@
 - __Snare 03__: [snare-03.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/snare-03.wav)
 - __Splash 01__: [splash-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/splash-01.wav)
 - __Splash 02__: [splash-02.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/splash-02.wav)
-- __Tom 01__: [tom-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-01.wav)
 - __Tom 02__: [tom-02.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-02.wav)
+- __Tom 01__: [tom-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-01.wav)
 - __Tom 03__: [tom-03.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-03.wav)
 
 
@@ -60,8 +60,8 @@
     "Snare 03": "snare-03.wav",
     "Splash 01": "splash-01.wav",
     "Splash 02": "splash-02.wav",
-    "Tom 01": "tom-01.wav",
     "Tom 02": "tom-02.wav",
+    "Tom 01": "tom-01.wav",
     "Tom 03": "tom-03.wav"
   },
   "samples": "samples/",

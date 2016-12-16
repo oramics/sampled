@@ -29,8 +29,8 @@
 - __Snare Short__: [snare-short.wav](https://danigb.github.io/sampled/DM/TR-909/SP/samples/snare-short.wav)
 - __Snare__: [snare.wav](https://danigb.github.io/sampled/DM/TR-909/SP/samples/snare.wav)
 - __Tom H__: [tom-h.wav](https://danigb.github.io/sampled/DM/TR-909/SP/samples/tom-h.wav)
-- __Tom L__: [tom-l.wav](https://danigb.github.io/sampled/DM/TR-909/SP/samples/tom-l.wav)
 - __Tom M__: [tom-m.wav](https://danigb.github.io/sampled/DM/TR-909/SP/samples/tom-m.wav)
+- __Tom L__: [tom-l.wav](https://danigb.github.io/sampled/DM/TR-909/SP/samples/tom-l.wav)
 
 
 
@@ -63,8 +63,8 @@
     "Snare Short": "snare-short.wav",
     "Snare": "snare.wav",
     "Tom H": "tom-h.wav",
-    "Tom L": "tom-l.wav",
-    "Tom M": "tom-m.wav"
+    "Tom M": "tom-m.wav",
+    "Tom L": "tom-l.wav"
   },
   "samples": "samples/",
   "samplesURL": "https://danigb.github.io/sampled/DM/TR-909/SP/samples/"

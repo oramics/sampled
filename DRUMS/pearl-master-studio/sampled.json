@@ -18,8 +18,8 @@
     "Snare 03": "snare-03.wav",
     "Splash 01": "splash-01.wav",
     "Splash 02": "splash-02.wav",
-    "Tom 01": "tom-01.wav",
     "Tom 02": "tom-02.wav",
+    "Tom 01": "tom-01.wav",
     "Tom 03": "tom-03.wav"
   },
   "samples": "samples/",

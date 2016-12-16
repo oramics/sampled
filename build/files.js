@@ -15,7 +15,7 @@ module.exports = function files (name, cb) {
   .destination('..')
   .clean(false)
   .frontmatter(false)
-  .ignore(['.git', 'node_modules'])
+  .ignore(['.git', 'node_modules', 'build'])
   .use(cb)
   .build(function (err) {
     if (err) throw err

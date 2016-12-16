@@ -1,21 +1,11 @@
 # Sampled
 
-This repository is a collection of sampled instruments, loops or impulse responses with public domain or similar license. The purpose is to provide accesible and ready to use quality samples for audio applications (specifically audio web apps).
+#### This repository is a collection of sampled instruments, loops or impulse responses with public domain or similar license.
+
+The purpose is to provide accesible and ready to use quality samples for audio applications (specifically audio web apps).
 
 Read [USAGE](https://github.com/danigb/sampled/tree/master/USAGE.md) or
 [CONTRIBUTE](https://github.com/danigb/sampled/tree/master/CONTRIBUTE.md)
-
-## How it works
-
-This repository is publicly accepsible thanks to github.io, so you can copy and paste any url (for example: https://danigb.github.io/sampled/DM/MRK-2/samples/kick.wav in https://danigb.github.io/sampled/DM/MRK-2/) and fetch it using javascript:
-
-```js
-var fetchAsAudioBuffer = require('fetch-as-audio-buffer')
-
-fetchAsAudioBuffer(new AudioContext(), 'https://danigb.github.io/sampled/DM/MRK-2/samples/clave.wav').then((buffer) => {
-  // play(buffer)
-})
-```
 
 ## Available collections
 

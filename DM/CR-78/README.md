@@ -17,16 +17,16 @@
 
 ### Samples
 
-- __Bongo L__: [bongo-l.wav](https://danigb.github.io/sampled/DM/CR-78/samples/bongo-l.wav)
 - __Bongo H__: [bongo-h.wav](https://danigb.github.io/sampled/DM/CR-78/samples/bongo-h.wav)
+- __Bongo L__: [bongo-l.wav](https://danigb.github.io/sampled/DM/CR-78/samples/bongo-l.wav)
 - __Conga L__: [conga-l.wav](https://danigb.github.io/sampled/DM/CR-78/samples/conga-l.wav)
 - __Cowbell__: [cowbell.wav](https://danigb.github.io/sampled/DM/CR-78/samples/cowbell.wav)
 - __Cymbal__: [cymbal.wav](https://danigb.github.io/sampled/DM/CR-78/samples/cymbal.wav)
 - __Guiro Long__: [guiro-long.wav](https://danigb.github.io/sampled/DM/CR-78/samples/guiro-long.wav)
 - __Guiro Short__: [guiro-short.wav](https://danigb.github.io/sampled/DM/CR-78/samples/guiro-short.wav)
 - __Hihat Accent__: [hihat-accent.wav](https://danigb.github.io/sampled/DM/CR-78/samples/hihat-accent.wav)
-- __Hihat Metal__: [hihat-metal.wav](https://danigb.github.io/sampled/DM/CR-78/samples/hihat-metal.wav)
 - __Hihat__: [hihat.wav](https://danigb.github.io/sampled/DM/CR-78/samples/hihat.wav)
+- __Hihat Metal__: [hihat-metal.wav](https://danigb.github.io/sampled/DM/CR-78/samples/hihat-metal.wav)
 - __Kick Accent__: [kick-accent.wav](https://danigb.github.io/sampled/DM/CR-78/samples/kick-accent.wav)
 - __Kick__: [kick.wav](https://danigb.github.io/sampled/DM/CR-78/samples/kick.wav)
 - __Rim__: [rim.wav](https://danigb.github.io/sampled/DM/CR-78/samples/rim.wav)
@@ -54,16 +54,16 @@
   "url": "https://danigb.github.io/sampled/DM/CR-78/",
   "type": "Drum machine",
   "files": {
-    "Bongo L": "bongo-l.wav",
     "Bongo H": "bongo-h.wav",
+    "Bongo L": "bongo-l.wav",
     "Conga L": "conga-l.wav",
     "Cowbell": "cowbell.wav",
     "Cymbal": "cymbal.wav",
     "Guiro Long": "guiro-long.wav",
     "Guiro Short": "guiro-short.wav",
     "Hihat Accent": "hihat-accent.wav",
-    "Hihat Metal": "hihat-metal.wav",
     "Hihat": "hihat.wav",
+    "Hihat Metal": "hihat-metal.wav",
     "Kick Accent": "kick-accent.wav",
     "Kick": "kick.wav",
     "Rim": "rim.wav",

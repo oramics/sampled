@@ -1,3 +1,5 @@
+const showdown = require('showdown')
+const converter = new showdown.Converter()
 const Files = require('./files')
 const { MD, getJSON, strToFile, objToFile } = require('./utils')
 const capitalize = require('to-capital-case')
@@ -21,13 +23,16 @@ Files('build', (files) => {
       files[inst.path + 'sampled.json'] = objToFile(inst.meta)
       updateIndices(all, groups, inst)
       files[inst.path + 'README.md'] = strToFile(instPage(inst))
+      files[inst.path + 'index.html'] = toHTML(inst.name, instPage(inst))
     }
   }
   files['instruments.json'] = objToFile(all)
   Object.keys(groups).forEach(function (group) {
     files[`${group}/instruments.js`] = objToFile(groups[group])
     files[`${group}/README.md`] = strToFile(groupPage(group, groups[group]))
+    files[`${group}/index.html`] = toHTML(GROUPS[group], groupPage(group, groups[group]))
   })
+  files['index.html'] = toHTML('Sampled', homePage(groups))
   console.log(Object.keys(all))
 })
 
@@ -68,7 +73,7 @@ function instSummary (inst) {
     name: inst.meta.name,
     description: inst.meta.description,
     type: inst.meta.type,
-    url: inst.meta.url + 'sampled.json'
+    url: inst.meta.url
   }
 }
 
@@ -77,12 +82,6 @@ function updateIndices (all, groups, inst) {
   all[inst.meta.name] = summary
   groups[inst.group] = groups[inst.group] || {}
   groups[inst.group][inst.meta.name] = summary
-}
-
-function updateGroups (groups, inst) {
-  const { group, meta } = inst
-  groups[group] = groups[group] || {}
-  groups[group][meta.name] = instSummary
 }
 
 function instPage (instrument) {
@@ -112,8 +111,16 @@ function instPage (instrument) {
   return HOME.toString()
 }
 
+function homePage (groups) {
+  var md = '# Sampled\n\n\n'
+  Object.keys(groups).forEach(function (group) {
+    md += groupPage(group, groups[group])
+  })
+  return md
+}
+
 function groupPage (id, group) {
-  const TOC = MD().h1(GROUPS[id])
+  const TOC = MD().h2(GROUPS[id])
   var dataUrl = `${URL}/${id}/instruments.json`
   TOC.p(MD.a(dataUrl, dataUrl))
   Object.keys(group).forEach(function (name) {
@@ -121,4 +128,18 @@ function groupPage (id, group) {
     TOC.lip(MD.a(meta.name, meta.url), meta.description)
   })
   return TOC.toString()
+}
+
+// const STYLES = ['modest', 'retro', 'air']
+function toHTML (title, md, style = 'air') {
+  return strToFile(`<!DOCTYPE html>
+  <html>
+  <title>${title}</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="http://markdowncss.github.io/${style}/css/${style}.css">
+  <body>
+    ${converter.makeHtml(md)}
+  </body>
+  </html>
+  `)
 }

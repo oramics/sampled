@@ -33,16 +33,16 @@
 - __Kick Alt__: [kick-alt.wav](https://danigb.github.io/sampled/DM/LM-2/samples/kick-alt.wav)
 - __Kick__: [kick.wav](https://danigb.github.io/sampled/DM/LM-2/samples/kick.wav)
 - __Ride__: [ride.wav](https://danigb.github.io/sampled/DM/LM-2/samples/ride.wav)
-- __Snare L__: [snare-l.wav](https://danigb.github.io/sampled/DM/LM-2/samples/snare-l.wav)
 - __Snare H__: [snare-h.wav](https://danigb.github.io/sampled/DM/LM-2/samples/snare-h.wav)
+- __Snare L__: [snare-l.wav](https://danigb.github.io/sampled/DM/LM-2/samples/snare-l.wav)
 - __Snare M__: [snare-m.wav](https://danigb.github.io/sampled/DM/LM-2/samples/snare-m.wav)
 - __Stick H__: [stick-h.wav](https://danigb.github.io/sampled/DM/LM-2/samples/stick-h.wav)
 - __Stick L__: [stick-l.wav](https://danigb.github.io/sampled/DM/LM-2/samples/stick-l.wav)
 - __Stick M__: [stick-m.wav](https://danigb.github.io/sampled/DM/LM-2/samples/stick-m.wav)
 - __Tamb__: [tamb.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tamb.wav)
 - __Tom H__: [tom-h.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-h.wav)
-- __Tom Hh__: [tom-hh.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-hh.wav)
 - __Tom L__: [tom-l.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-l.wav)
+- __Tom Hh__: [tom-hh.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-hh.wav)
 - __Tom Ll__: [tom-ll.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-ll.wav)
 - __Tom M__: [tom-m.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-m.wav)
 
@@ -81,16 +81,16 @@
     "Kick Alt": "kick-alt.wav",
     "Kick": "kick.wav",
     "Ride": "ride.wav",
-    "Snare L": "snare-l.wav",
     "Snare H": "snare-h.wav",
+    "Snare L": "snare-l.wav",
     "Snare M": "snare-m.wav",
     "Stick H": "stick-h.wav",
     "Stick L": "stick-l.wav",
     "Stick M": "stick-m.wav",
     "Tamb": "tamb.wav",
     "Tom H": "tom-h.wav",
-    "Tom Hh": "tom-hh.wav",
     "Tom L": "tom-l.wav",
+    "Tom Hh": "tom-hh.wav",
     "Tom Ll": "tom-ll.wav",
     "Tom M": "tom-m.wav"
   },

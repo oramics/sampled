@@ -5,7 +5,7 @@
   "description": "Collection of sampled instruments, loops and impulse responses",
   "repository": "https://github.com/danigb/smplr/tree/master/packages/drum-machines",
   "scripts": {
-    "build": "node lib/build"
+    "build": "node build/index.js"
   },
   "keywords": [
     "drum",
@@ -26,9 +26,10 @@
   },
   "devDependencies": {
     "metalsmith": "^2.3.0",
+    "metalsmith-ignore": "^0.1.2",
     "minimatch": "^3.0.3",
+    "showdown": "^1.5.1",
     "to-capital-case": "^1.0.0",
-    "to-snake-case": "^1.0.0",
-    "metalsmith-ignore": "^0.1.2"
+    "to-snake-case": "^1.0.0"
   }
 }

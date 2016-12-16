@@ -17,8 +17,8 @@
 ### Samples
 
 - __Block Inside__: [block_inside.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/block_inside.wav)
-- __Bottle Hall__: [bottle_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/bottle_hall.wav)
 - __Cement Blocks 1__: [cement_blocks_1.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/cement_blocks_1.wav)
+- __Bottle Hall__: [bottle_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/bottle_hall.wav)
 - __Cement Blocks 2__: [cement_blocks_2.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/cement_blocks_2.wav)
 - __Chateau De Logne Outside__: [chateau_de_logne_outside.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/chateau_de_logne_outside.wav)
 - __Conic Long Echo Hall__: [conic_long_echo_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/conic_long_echo_hall.wav)
@@ -75,8 +75,8 @@
   "type": "Impulse Response",
   "files": {
     "Block Inside": "block_inside.wav",
-    "Bottle Hall": "bottle_hall.wav",
     "Cement Blocks 1": "cement_blocks_1.wav",
+    "Bottle Hall": "bottle_hall.wav",
     "Cement Blocks 2": "cement_blocks_2.wav",
     "Chateau De Logne Outside": "chateau_de_logne_outside.wav",
     "Conic Long Echo Hall": "conic_long_echo_hall.wav",
