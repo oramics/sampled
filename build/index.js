@@ -3,7 +3,7 @@ const metadata = require('./tasks/metadata')
 const readme = require('./tasks/readme')
 const html = require('./tasks/html')
 
-const URL = 'https://danigb.github.io/sampled'
+const URL = 'https://oramics.github.io/sampled'
 const fileToStr = (file) => file.contents.toString()
 const fileToObj = (file) => file ? JSON.parse(fileToStr(file)) : null
 const strToFile = (str) => ({ contents: new Buffer(str) })

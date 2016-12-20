@@ -1,5 +1,5 @@
 
-[Sampled](https://danigb.github.io/sampled) /
+[Sampled](https://oramics.github.io/sampled) /
 [Drum machine](/DM)
 
 # LM-2
@@ -7,41 +7,41 @@
 - __description__: LinnDrum LM-2
 - __license__: Public Domain
 - __name__: LM-2
-- __samples__: https://danigb.github.io/sampled/DM/LM-2/samples/
+- __samples__: https://oramics.github.io/sampled/DM/LM-2/samples/
 - __type__: Drum machine
-- __url__: https://danigb.github.io/sampled/DM/LM-2/
+- __url__: https://oramics.github.io/sampled/DM/LM-2/
 
 ## Samples
 
-- __cabasa.wav__: [cabasa.wav](https://danigb.github.io/sampled/DM/LM-2/samples/cabasa.wav)
-- __clap.wav__: [clap.wav](https://danigb.github.io/sampled/DM/LM-2/samples/clap.wav)
-- __conga-h.wav__: [conga-h.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-h.wav)
-- __conga-hh.wav__: [conga-hh.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-hh.wav)
-- __conga-l.wav__: [conga-l.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-l.wav)
-- __conga-ll.wav__: [conga-ll.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-ll.wav)
-- __conga-lll.wav__: [conga-lll.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-lll.wav)
-- __conga-m.wav__: [conga-m.wav](https://danigb.github.io/sampled/DM/LM-2/samples/conga-m.wav)
-- __cowb.wav__: [cowb.wav](https://danigb.github.io/sampled/DM/LM-2/samples/cowb.wav)
-- __crash.wav__: [crash.wav](https://danigb.github.io/sampled/DM/LM-2/samples/crash.wav)
-- __hihat-closed-long.wav__: [hihat-closed-long.wav](https://danigb.github.io/sampled/DM/LM-2/samples/hihat-closed-long.wav)
-- __hihat-closed-short.wav__: [hihat-closed-short.wav](https://danigb.github.io/sampled/DM/LM-2/samples/hihat-closed-short.wav)
-- __hihat-closed.wav__: [hihat-closed.wav](https://danigb.github.io/sampled/DM/LM-2/samples/hihat-closed.wav)
-- __hihat-open.wav__: [hihat-open.wav](https://danigb.github.io/sampled/DM/LM-2/samples/hihat-open.wav)
-- __kick-alt.wav__: [kick-alt.wav](https://danigb.github.io/sampled/DM/LM-2/samples/kick-alt.wav)
-- __kick.wav__: [kick.wav](https://danigb.github.io/sampled/DM/LM-2/samples/kick.wav)
-- __ride.wav__: [ride.wav](https://danigb.github.io/sampled/DM/LM-2/samples/ride.wav)
-- __snare-h.wav__: [snare-h.wav](https://danigb.github.io/sampled/DM/LM-2/samples/snare-h.wav)
-- __snare-l.wav__: [snare-l.wav](https://danigb.github.io/sampled/DM/LM-2/samples/snare-l.wav)
-- __snare-m.wav__: [snare-m.wav](https://danigb.github.io/sampled/DM/LM-2/samples/snare-m.wav)
-- __stick-h.wav__: [stick-h.wav](https://danigb.github.io/sampled/DM/LM-2/samples/stick-h.wav)
-- __stick-l.wav__: [stick-l.wav](https://danigb.github.io/sampled/DM/LM-2/samples/stick-l.wav)
-- __stick-m.wav__: [stick-m.wav](https://danigb.github.io/sampled/DM/LM-2/samples/stick-m.wav)
-- __tamb.wav__: [tamb.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tamb.wav)
-- __tom-h.wav__: [tom-h.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-h.wav)
-- __tom-hh.wav__: [tom-hh.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-hh.wav)
-- __tom-l.wav__: [tom-l.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-l.wav)
-- __tom-ll.wav__: [tom-ll.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-ll.wav)
-- __tom-m.wav__: [tom-m.wav](https://danigb.github.io/sampled/DM/LM-2/samples/tom-m.wav)
+- __cabasa.wav__: [cabasa.wav](https://oramics.github.io/sampled/DM/LM-2/samples/cabasa.wav)
+- __clap.wav__: [clap.wav](https://oramics.github.io/sampled/DM/LM-2/samples/clap.wav)
+- __conga-h.wav__: [conga-h.wav](https://oramics.github.io/sampled/DM/LM-2/samples/conga-h.wav)
+- __conga-hh.wav__: [conga-hh.wav](https://oramics.github.io/sampled/DM/LM-2/samples/conga-hh.wav)
+- __conga-l.wav__: [conga-l.wav](https://oramics.github.io/sampled/DM/LM-2/samples/conga-l.wav)
+- __conga-ll.wav__: [conga-ll.wav](https://oramics.github.io/sampled/DM/LM-2/samples/conga-ll.wav)
+- __conga-lll.wav__: [conga-lll.wav](https://oramics.github.io/sampled/DM/LM-2/samples/conga-lll.wav)
+- __conga-m.wav__: [conga-m.wav](https://oramics.github.io/sampled/DM/LM-2/samples/conga-m.wav)
+- __cowb.wav__: [cowb.wav](https://oramics.github.io/sampled/DM/LM-2/samples/cowb.wav)
+- __crash.wav__: [crash.wav](https://oramics.github.io/sampled/DM/LM-2/samples/crash.wav)
+- __hihat-closed-long.wav__: [hihat-closed-long.wav](https://oramics.github.io/sampled/DM/LM-2/samples/hihat-closed-long.wav)
+- __hihat-closed-short.wav__: [hihat-closed-short.wav](https://oramics.github.io/sampled/DM/LM-2/samples/hihat-closed-short.wav)
+- __hihat-closed.wav__: [hihat-closed.wav](https://oramics.github.io/sampled/DM/LM-2/samples/hihat-closed.wav)
+- __hihat-open.wav__: [hihat-open.wav](https://oramics.github.io/sampled/DM/LM-2/samples/hihat-open.wav)
+- __kick-alt.wav__: [kick-alt.wav](https://oramics.github.io/sampled/DM/LM-2/samples/kick-alt.wav)
+- __kick.wav__: [kick.wav](https://oramics.github.io/sampled/DM/LM-2/samples/kick.wav)
+- __ride.wav__: [ride.wav](https://oramics.github.io/sampled/DM/LM-2/samples/ride.wav)
+- __snare-h.wav__: [snare-h.wav](https://oramics.github.io/sampled/DM/LM-2/samples/snare-h.wav)
+- __snare-l.wav__: [snare-l.wav](https://oramics.github.io/sampled/DM/LM-2/samples/snare-l.wav)
+- __snare-m.wav__: [snare-m.wav](https://oramics.github.io/sampled/DM/LM-2/samples/snare-m.wav)
+- __stick-h.wav__: [stick-h.wav](https://oramics.github.io/sampled/DM/LM-2/samples/stick-h.wav)
+- __stick-l.wav__: [stick-l.wav](https://oramics.github.io/sampled/DM/LM-2/samples/stick-l.wav)
+- __stick-m.wav__: [stick-m.wav](https://oramics.github.io/sampled/DM/LM-2/samples/stick-m.wav)
+- __tamb.wav__: [tamb.wav](https://oramics.github.io/sampled/DM/LM-2/samples/tamb.wav)
+- __tom-h.wav__: [tom-h.wav](https://oramics.github.io/sampled/DM/LM-2/samples/tom-h.wav)
+- __tom-hh.wav__: [tom-hh.wav](https://oramics.github.io/sampled/DM/LM-2/samples/tom-hh.wav)
+- __tom-l.wav__: [tom-l.wav](https://oramics.github.io/sampled/DM/LM-2/samples/tom-l.wav)
+- __tom-ll.wav__: [tom-ll.wav](https://oramics.github.io/sampled/DM/LM-2/samples/tom-ll.wav)
+- __tom-m.wav__: [tom-m.wav](https://oramics.github.io/sampled/DM/LM-2/samples/tom-m.wav)
 
 ## Metadata
 
@@ -50,9 +50,9 @@
   "name": "LM-2",
   "description": "LinnDrum LM-2",
   "license": "Public Domain",
-  "url": "https://danigb.github.io/sampled/DM/LM-2/",
+  "url": "https://oramics.github.io/sampled/DM/LM-2/",
   "type": "Drum machine",
-  "samples": "https://danigb.github.io/sampled/DM/LM-2/samples/",
+  "samples": "https://oramics.github.io/sampled/DM/LM-2/samples/",
   "files": [
     "cabasa.wav",
     "clap.wav",

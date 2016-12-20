@@ -4,12 +4,14 @@
   "info": {
     "danse-macabre": {
       "description": "An orchestral piece of music with complex sound",
-      "duration": "0:21"
+      "duration": "0:21",
+      "source": "http://freemusicarchive.org/music/Kevin_MacLeod/Classical_Sampler/Danse_Macabre_-_Finale",
+      "license": "Creative Commons Attribution License"
     }
   },
-  "url": "https://danigb.github.io/sampled/TEST/",
+  "url": "https://oramics.github.io/sampled/TEST/",
   "type": "Test",
-  "samples": "https://danigb.github.io/sampled/TEST/audio/",
+  "samples": "https://oramics.github.io/sampled/TEST/audio/",
   "files": [
     "kevin-macleod-danse-macabre-finale.mp3"
   ]

@@ -1,9 +1,9 @@
 {
   "name": "SP",
   "description": "A 909 kit sampled through an original E-mu SP-1200 sampler, then re-sampled into Maschine ",
-  "url": "https://danigb.github.io/sampled/DM/TR-909/SP/",
+  "url": "https://oramics.github.io/sampled/DM/TR-909/SP/",
   "type": "Drum machine",
-  "samples": "https://danigb.github.io/sampled/DM/TR-909/SP/samples/",
+  "samples": "https://oramics.github.io/sampled/DM/TR-909/SP/samples/",
   "files": [
     "clap1.wav",
     "clap2.wav",

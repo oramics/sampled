@@ -1,9 +1,9 @@
 {
   "name": "Detroit",
   "description": "Roland TR-909 recorder via API and Neve",
-  "url": "https://danigb.github.io/sampled/DM/TR-909/Detroit/",
+  "url": "https://oramics.github.io/sampled/DM/TR-909/Detroit/",
   "type": "Drum machine",
-  "samples": "https://danigb.github.io/sampled/DM/TR-909/Detroit/samples/",
+  "samples": "https://oramics.github.io/sampled/DM/TR-909/Detroit/samples/",
   "files": [
     "clap-1.wav",
     "clap-2.wav",

@@ -2,9 +2,9 @@
   "name": "LM-2",
   "description": "LinnDrum LM-2",
   "license": "Public Domain",
-  "url": "https://danigb.github.io/sampled/DM/LM-2/",
+  "url": "https://oramics.github.io/sampled/DM/LM-2/",
   "type": "Drum machine",
-  "samples": "https://danigb.github.io/sampled/DM/LM-2/samples/",
+  "samples": "https://oramics.github.io/sampled/DM/LM-2/samples/",
   "files": [
     "cabasa.wav",
     "clap.wav",

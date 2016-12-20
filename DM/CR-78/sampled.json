@@ -2,9 +2,9 @@
   "name": "CR-78",
   "description": "Roland CompuRythm CR-78",
   "license": "Public Domain",
-  "url": "https://danigb.github.io/sampled/DM/CR-78/",
+  "url": "https://oramics.github.io/sampled/DM/CR-78/",
   "type": "Drum machine",
-  "samples": "https://danigb.github.io/sampled/DM/CR-78/samples/",
+  "samples": "https://oramics.github.io/sampled/DM/CR-78/samples/",
   "files": [
     "bongo-h.wav",
     "bongo-l.wav",

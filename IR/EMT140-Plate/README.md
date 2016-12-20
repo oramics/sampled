@@ -1,5 +1,5 @@
 
-[Sampled](https://danigb.github.io/sampled) /
+[Sampled](https://oramics.github.io/sampled) /
 [Impulse Response](/IR)
 
 # EMT140-Plate
@@ -7,27 +7,27 @@
 - __description__: Greg Hopkins EMT 140 Plate Reverb Impulse Response
 - __license__: Creative Commons Attibution-Any
 - __name__: EMT140-Plate
-- __samples__: https://danigb.github.io/sampled/IR/EMT140-Plate/samples/
+- __samples__: https://oramics.github.io/sampled/IR/EMT140-Plate/samples/
 - __type__: Impulse Response
-- __url__: https://danigb.github.io/sampled/IR/EMT140-Plate/
+- __url__: https://oramics.github.io/sampled/IR/EMT140-Plate/
 
 ## Samples
 
-- __emt_140_bright_1.wav__: [emt_140_bright_1.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_1.wav)
-- __emt_140_bright_2.wav__: [emt_140_bright_2.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_2.wav)
-- __emt_140_bright_3.wav__: [emt_140_bright_3.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_3.wav)
-- __emt_140_bright_4.wav__: [emt_140_bright_4.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_4.wav)
-- __emt_140_bright_5.wav__: [emt_140_bright_5.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_5.wav)
-- __emt_140_dark_1.wav__: [emt_140_dark_1.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_1.wav)
-- __emt_140_dark_2.wav__: [emt_140_dark_2.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_2.wav)
-- __emt_140_dark_3.wav__: [emt_140_dark_3.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_3.wav)
-- __emt_140_dark_4.wav__: [emt_140_dark_4.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_4.wav)
-- __emt_140_dark_5.wav__: [emt_140_dark_5.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_5.wav)
-- __emt_140_medium_1.wav__: [emt_140_medium_1.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_1.wav)
-- __emt_140_medium_2.wav__: [emt_140_medium_2.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_2.wav)
-- __emt_140_medium_3.wav__: [emt_140_medium_3.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_3.wav)
-- __emt_140_medium_4.wav__: [emt_140_medium_4.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_4.wav)
-- __emt_140_medium_5.wav__: [emt_140_medium_5.wav](https://danigb.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_5.wav)
+- __emt_140_bright_1.wav__: [emt_140_bright_1.wav](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_1.wav)
+- __emt_140_bright_2.wav__: [emt_140_bright_2.wav](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_2.wav)
+- __emt_140_bright_3.wav__: [emt_140_bright_3.wav](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_3.wav)
+- __emt_140_bright_4.wav__: [emt_140_bright_4.wav](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_4.wav)
+- __emt_140_bright_5.wav__: [emt_140_bright_5.wav](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_5.wav)
+- __emt_140_dark_1.wav__: [emt_140_dark_1.wav](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_1.wav)
+- __emt_140_dark_2.wav__: [emt_140_dark_2.wav](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_2.wav)
+- __emt_140_dark_3.wav__: [emt_140_dark_3.wav](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_3.wav)
+- __emt_140_dark_4.wav__: [emt_140_dark_4.wav](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_4.wav)
+- __emt_140_dark_5.wav__: [emt_140_dark_5.wav](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_5.wav)
+- __emt_140_medium_1.wav__: [emt_140_medium_1.wav](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_1.wav)
+- __emt_140_medium_2.wav__: [emt_140_medium_2.wav](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_2.wav)
+- __emt_140_medium_3.wav__: [emt_140_medium_3.wav](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_3.wav)
+- __emt_140_medium_4.wav__: [emt_140_medium_4.wav](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_4.wav)
+- __emt_140_medium_5.wav__: [emt_140_medium_5.wav](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_5.wav)
 
 ## Metadata
 
@@ -36,9 +36,9 @@
   "name": "EMT140-Plate",
   "description": "Greg Hopkins EMT 140 Plate Reverb Impulse Response",
   "license": "Creative Commons Attibution-Any",
-  "url": "https://danigb.github.io/sampled/IR/EMT140-Plate/",
+  "url": "https://oramics.github.io/sampled/IR/EMT140-Plate/",
   "type": "Impulse Response",
-  "samples": "https://danigb.github.io/sampled/IR/EMT140-Plate/samples/",
+  "samples": "https://oramics.github.io/sampled/IR/EMT140-Plate/samples/",
   "files": [
     "emt_140_bright_1.wav",
     "emt_140_bright_2.wav",

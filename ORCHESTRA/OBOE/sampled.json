@@ -2,9 +2,9 @@
   "name": "OBOE",
   "description": "Oboe samples from Philarmonia Orchestra",
   "license": "Creative Commons Attribution-ShareAlike 3.0 Unported License",
-  "url": "https://danigb.github.io/sampled/ORCHESTRA/OBOE/",
+  "url": "https://oramics.github.io/sampled/ORCHESTRA/OBOE/",
   "type": "Orchestra",
-  "samples": "https://danigb.github.io/sampled/ORCHESTRA/OBOE/samples/",
+  "samples": "https://oramics.github.io/sampled/ORCHESTRA/OBOE/samples/",
   "files": [
     "oboe_A4_025_forte_normal.mp3",
     "oboe_A4_025_fortissimo_normal.mp3",

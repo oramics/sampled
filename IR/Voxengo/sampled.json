@@ -2,9 +2,9 @@
   "name": "Voxengo",
   "description": "Voxengo Free Reverb Impulse Responses",
   "license": "Permission is granted to anyone to use these impulse files royalty-free for any purpose, including commercial usage.",
-  "url": "https://danigb.github.io/sampled/IR/Voxengo/",
+  "url": "https://oramics.github.io/sampled/IR/Voxengo/",
   "type": "Impulse Response",
-  "samples": "https://danigb.github.io/sampled/IR/Voxengo/samples/",
+  "samples": "https://oramics.github.io/sampled/IR/Voxengo/samples/",
   "files": [
     "block_inside.wav",
     "bottle_hall.wav",

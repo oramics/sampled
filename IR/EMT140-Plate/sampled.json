@@ -2,9 +2,9 @@
   "name": "EMT140-Plate",
   "description": "Greg Hopkins EMT 140 Plate Reverb Impulse Response",
   "license": "Creative Commons Attibution-Any",
-  "url": "https://danigb.github.io/sampled/IR/EMT140-Plate/",
+  "url": "https://oramics.github.io/sampled/IR/EMT140-Plate/",
   "type": "Impulse Response",
-  "samples": "https://danigb.github.io/sampled/IR/EMT140-Plate/samples/",
+  "samples": "https://oramics.github.io/sampled/IR/EMT140-Plate/samples/",
   "files": [
     "emt_140_bright_1.wav",
     "emt_140_bright_2.wav",

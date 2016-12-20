@@ -2,8 +2,8 @@
   "name": "sampled",
   "private": true,
   "version": "0.0.2",
-  "description": "Collection of sampled instruments, loops and impulse responses",
-  "repository": "https://github.com/danigb/smplr/tree/master/packages/drum-machines",
+  "description": "Tools to build sampled site",
+  "repository": "https://github.com/oramics/sampled/",
   "scripts": {
     "build": "node build/index.js"
   },
@@ -22,7 +22,7 @@
   "author": "danigb <danigb@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danigb/sampled/issues"
+    "url": "https://github.com/oramics/sampled/issues"
   },
   "devDependencies": {
     "metalsmith": "^2.3.0",
@@ -30,9 +30,7 @@
     "minimatch": "^3.0.3",
     "showdown": "^1.5.1",
     "to-capital-case": "^1.0.0",
-    "to-snake-case": "^1.0.0"
-  },
-  "dependencies": {
+    "to-snake-case": "^1.0.0",
     "handlebars": "^4.0.6"
   }
 }

@@ -2,9 +2,9 @@
   "name": "MRK-2",
   "description": "Maestro Rhythm King MRK-2",
   "license": "Public Domain",
-  "url": "https://danigb.github.io/sampled/DM/MRK-2/",
+  "url": "https://oramics.github.io/sampled/DM/MRK-2/",
   "type": "Drum machine",
-  "samples": "https://danigb.github.io/sampled/DM/MRK-2/samples/",
+  "samples": "https://oramics.github.io/sampled/DM/MRK-2/samples/",
   "files": [
     "block.wav",
     "bongo.wav",

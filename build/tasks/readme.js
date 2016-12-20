@@ -26,7 +26,7 @@ module.exports = function (repo) {
 
 const README =
 `
-[Sampled](https://danigb.github.io/sampled) /
+[Sampled](https://oramics.github.io/sampled) /
 [{{meta.type}}]({{BASE}}/{{group}})
 
 # {{meta.name}}

@@ -2,9 +2,9 @@
   "name": "TR-505",
   "description": "Roland TR-505",
   "license": "Public Domain",
-  "url": "https://danigb.github.io/sampled/DM/TR-505/",
+  "url": "https://oramics.github.io/sampled/DM/TR-505/",
   "type": "Drum machine",
-  "samples": "https://danigb.github.io/sampled/DM/TR-505/samples/",
+  "samples": "https://oramics.github.io/sampled/DM/TR-505/samples/",
   "files": [
     "tr505-clap.wav",
     "tr505-conga-h.wav",
