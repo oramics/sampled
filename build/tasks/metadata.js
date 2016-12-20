@@ -8,14 +8,17 @@ const GROUPS = {
 
 module.exports = function (repo) {
   return function (files) {
+    const packages = []
     for (var name in files) {
       if (name.endsWith(CONFIG)) {
         const config = repo.fileToObj(files[name])
         const meta = generateMetadata(config, name, files, repo.URL)
         const path = meta.url.slice(repo.URL.length + 1)
         files[path + 'sampled.json'] = repo.objToFile(meta)
+        packages.push(name.slice(0, -CONFIG.length))
       }
     }
+    files['sampled.packages.json'] = repo.objToFile(packages)
   }
 }
 

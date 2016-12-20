@@ -13,21 +13,21 @@
 
 ## Samples
 
-- __crash-01.wav__: [crash-01.wav](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/crash-01.wav)
-- __crash-02.wav__: [crash-02.wav](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/crash-02.wav)
-- __hihat-closed.wav__: [hihat-closed.wav](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/hihat-closed.wav)
-- __hihat-open.wav__: [hihat-open.wav](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/hihat-open.wav)
-- __kick-01.wav__: [kick-01.wav](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/kick-01.wav)
-- __ride-01.wav__: [ride-01.wav](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/ride-01.wav)
-- __ride-02.wav__: [ride-02.wav](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/ride-02.wav)
-- __snare-01.wav__: [snare-01.wav](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/snare-01.wav)
-- __snare-02.wav__: [snare-02.wav](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/snare-02.wav)
-- __snare-03.wav__: [snare-03.wav](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/snare-03.wav)
-- __splash-01.wav__: [splash-01.wav](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/splash-01.wav)
-- __splash-02.wav__: [splash-02.wav](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/splash-02.wav)
-- __tom-01.wav__: [tom-01.wav](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-01.wav)
-- __tom-02.wav__: [tom-02.wav](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-02.wav)
-- __tom-03.wav__: [tom-03.wav](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-03.wav)
+- __`crash-01.wav`__: [`crash-01.wav`](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/crash-01.wav)
+- __`crash-02.wav`__: [`crash-02.wav`](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/crash-02.wav)
+- __`hihat-closed.wav`__: [`hihat-closed.wav`](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/hihat-closed.wav)
+- __`hihat-open.wav`__: [`hihat-open.wav`](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/hihat-open.wav)
+- __`kick-01.wav`__: [`kick-01.wav`](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/kick-01.wav)
+- __`ride-01.wav`__: [`ride-01.wav`](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/ride-01.wav)
+- __`ride-02.wav`__: [`ride-02.wav`](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/ride-02.wav)
+- __`snare-01.wav`__: [`snare-01.wav`](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/snare-01.wav)
+- __`snare-02.wav`__: [`snare-02.wav`](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/snare-02.wav)
+- __`snare-03.wav`__: [`snare-03.wav`](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/snare-03.wav)
+- __`splash-01.wav`__: [`splash-01.wav`](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/splash-01.wav)
+- __`splash-02.wav`__: [`splash-02.wav`](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/splash-02.wav)
+- __`tom-01.wav`__: [`tom-01.wav`](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-01.wav)
+- __`tom-02.wav`__: [`tom-02.wav`](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-02.wav)
+- __`tom-03.wav`__: [`tom-03.wav`](https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-03.wav)
 
 ## Metadata
 

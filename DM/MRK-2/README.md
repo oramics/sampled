@@ -13,16 +13,16 @@
 
 ## Samples
 
-- __block.wav__: [block.wav](https://oramics.github.io/sampled/DM/MRK-2/samples/block.wav)
-- __bongo.wav__: [bongo.wav](https://oramics.github.io/sampled/DM/MRK-2/samples/bongo.wav)
-- __clave.wav__: [clave.wav](https://oramics.github.io/sampled/DM/MRK-2/samples/clave.wav)
-- __cymball-long.wav__: [cymball-long.wav](https://oramics.github.io/sampled/DM/MRK-2/samples/cymball-long.wav)
-- __cymball-short.wav__: [cymball-short.wav](https://oramics.github.io/sampled/DM/MRK-2/samples/cymball-short.wav)
-- __hihat-closed.wav__: [hihat-closed.wav](https://oramics.github.io/sampled/DM/MRK-2/samples/hihat-closed.wav)
-- __hihat-open.wav__: [hihat-open.wav](https://oramics.github.io/sampled/DM/MRK-2/samples/hihat-open.wav)
-- __kick.wav__: [kick.wav](https://oramics.github.io/sampled/DM/MRK-2/samples/kick.wav)
-- __snare.wav__: [snare.wav](https://oramics.github.io/sampled/DM/MRK-2/samples/snare.wav)
-- __tom.wav__: [tom.wav](https://oramics.github.io/sampled/DM/MRK-2/samples/tom.wav)
+- __`block.wav`__: [`block.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/block.wav)
+- __`bongo.wav`__: [`bongo.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/bongo.wav)
+- __`clave.wav`__: [`clave.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/clave.wav)
+- __`cymball-long.wav`__: [`cymball-long.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/cymball-long.wav)
+- __`cymball-short.wav`__: [`cymball-short.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/cymball-short.wav)
+- __`hihat-closed.wav`__: [`hihat-closed.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/hihat-closed.wav)
+- __`hihat-open.wav`__: [`hihat-open.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/hihat-open.wav)
+- __`kick.wav`__: [`kick.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/kick.wav)
+- __`snare.wav`__: [`snare.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/snare.wav)
+- __`tom.wav`__: [`tom.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/tom.wav)
 
 ## Metadata
 
