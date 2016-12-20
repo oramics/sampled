@@ -2,11 +2,12 @@
 [Sampled](https://oramics.github.io/sampled) /
 [Drum machine](/DM)
 
-# SP
+# TR-909 SP
 
 - __description__: A 909 kit sampled through an original E-mu SP-1200 sampler, then re-sampled into Maschine 
-- __name__: SP
+- __name__: TR-909 SP
 - __samples__: https://oramics.github.io/sampled/DM/TR-909/SP/samples/
+- __source__: http://www.flstudiomusic.com/2016/09/download-free-909-kits-stems-f9-audio.html
 - __type__: Drum machine
 - __url__: https://oramics.github.io/sampled/DM/TR-909/SP/
 
@@ -33,8 +34,9 @@
 
 ```json
 {
-  "name": "SP",
+  "name": "TR-909 SP",
   "description": "A 909 kit sampled through an original E-mu SP-1200 sampler, then re-sampled into Maschine ",
+  "source": "http://www.flstudiomusic.com/2016/09/download-free-909-kits-stems-f9-audio.html",
   "url": "https://oramics.github.io/sampled/DM/TR-909/SP/",
   "type": "Drum machine",
   "samples": "https://oramics.github.io/sampled/DM/TR-909/SP/samples/",

@@ -2,11 +2,12 @@
 [Sampled](https://oramics.github.io/sampled) /
 [Drum machine](/DM)
 
-# Detroit
+# TR-909 Detroit
 
 - __description__: Roland TR-909 recorder via API and Neve
-- __name__: Detroit
+- __name__: TR-909 Detroit
 - __samples__: https://oramics.github.io/sampled/DM/TR-909/Detroit/samples/
+- __source__: http://www.flstudiomusic.com/2016/09/download-free-909-kits-stems-f9-audio.html
 - __type__: Drum machine
 - __url__: https://oramics.github.io/sampled/DM/TR-909/Detroit/
 
@@ -31,8 +32,9 @@
 
 ```json
 {
-  "name": "Detroit",
+  "name": "TR-909 Detroit",
   "description": "Roland TR-909 recorder via API and Neve",
+  "source": "http://www.flstudiomusic.com/2016/09/download-free-909-kits-stems-f9-audio.html",
   "url": "https://oramics.github.io/sampled/DM/TR-909/Detroit/",
   "type": "Drum machine",
   "samples": "https://oramics.github.io/sampled/DM/TR-909/Detroit/samples/",

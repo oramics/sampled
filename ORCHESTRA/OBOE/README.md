@@ -8,6 +8,7 @@
 - __license__: Creative Commons Attribution-ShareAlike 3.0 Unported License
 - __name__: oboe
 - __samples__: https://oramics.github.io/sampled/ORCHESTRA/oboe/samples/
+- __source__: http://www.philharmonia.co.uk/explore/sound_samples/oboe
 - __type__: Orchestra
 - __url__: https://oramics.github.io/sampled/ORCHESTRA/oboe/
 
@@ -614,9 +615,10 @@
 
 ```json
 {
-  "name": "oboe",
   "description": "Oboe samples from Philarmonia Orchestra",
+  "source": "http://www.philharmonia.co.uk/explore/sound_samples/oboe",
   "license": "Creative Commons Attribution-ShareAlike 3.0 Unported License",
+  "name": "oboe",
   "url": "https://oramics.github.io/sampled/ORCHESTRA/oboe/",
   "type": "Orchestra",
   "samples": "https://oramics.github.io/sampled/ORCHESTRA/oboe/samples/",

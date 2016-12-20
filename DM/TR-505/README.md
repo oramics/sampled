@@ -8,6 +8,7 @@
 - __license__: Public Domain
 - __name__: TR-505
 - __samples__: https://oramics.github.io/sampled/DM/TR-505/samples/
+- __source__: http://www.progsounds.com/downloads/progsounds-roland-tr-505-samples-pack
 - __type__: Drum machine
 - __url__: https://oramics.github.io/sampled/DM/TR-505/
 
@@ -34,9 +35,10 @@
 
 ```json
 {
-  "name": "TR-505",
   "description": "Roland TR-505",
+  "source": "http://www.progsounds.com/downloads/progsounds-roland-tr-505-samples-pack",
   "license": "Public Domain",
+  "name": "TR-505",
   "url": "https://oramics.github.io/sampled/DM/TR-505/",
   "type": "Drum machine",
   "samples": "https://oramics.github.io/sampled/DM/TR-505/samples/",

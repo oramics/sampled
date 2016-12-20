@@ -1,25 +1,6 @@
 {
-  "name": "pearl-master-studio",
+  "name": "Pearl Master Studio",
   "description": "Pearl Master Studio Pack 1 by enoe",
-  "license": "Creative Commons Attribution 3.0",
-  "url": "https://oramics.github.io/sampled/DRUMS/pearl-master-studio/",
-  "type": "Acoustic Drum",
-  "samples": "https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/",
-  "files": [
-    "crash-01.wav",
-    "crash-02.wav",
-    "hihat-closed.wav",
-    "hihat-open.wav",
-    "kick-01.wav",
-    "ride-01.wav",
-    "ride-02.wav",
-    "snare-01.wav",
-    "snare-02.wav",
-    "snare-03.wav",
-    "splash-01.wav",
-    "splash-02.wav",
-    "tom-01.wav",
-    "tom-02.wav",
-    "tom-03.wav"
-  ]
+  "url": "http://audio.ibeat.org/?ccm=/files/enoe/286",
+  "license": "Creative Commons Attribution 3.0"
 }

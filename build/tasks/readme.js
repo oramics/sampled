@@ -1,5 +1,5 @@
 const handlebars = require('handlebars')
-const META = '/sampled.json'
+const META = '/sampled.instrument.json'
 
 module.exports = function (repo) {
   return function (files) {

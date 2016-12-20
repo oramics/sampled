@@ -2,12 +2,13 @@
 [Sampled](https://oramics.github.io/sampled) /
 [Impulse Response](/IR)
 
-# EMT140-Plate
+# EMT-140 Plate
 
 - __description__: Greg Hopkins EMT 140 Plate Reverb Impulse Response
 - __license__: Creative Commons Attibution-Any
-- __name__: EMT140-Plate
+- __name__: EMT-140 Plate
 - __samples__: https://oramics.github.io/sampled/IR/EMT140-Plate/samples/
+- __source__: https://www.facebook.com/hopkinsmediaservices/
 - __type__: Impulse Response
 - __url__: https://oramics.github.io/sampled/IR/EMT140-Plate/
 
@@ -33,11 +34,13 @@
 
 ```json
 {
-  "name": "EMT140-Plate",
-  "description": "Greg Hopkins EMT 140 Plate Reverb Impulse Response",
-  "license": "Creative Commons Attibution-Any",
-  "url": "https://oramics.github.io/sampled/IR/EMT140-Plate/",
+  "name": "EMT-140 Plate",
   "type": "Impulse Response",
+  "description": "Greg Hopkins EMT 140 Plate Reverb Impulse Response",
+  "source": "https://www.facebook.com/hopkinsmediaservices/",
+  "license": "Creative Commons Attibution-Any",
+  "pack": false,
+  "url": "https://oramics.github.io/sampled/IR/EMT140-Plate/",
   "samples": "https://oramics.github.io/sampled/IR/EMT140-Plate/samples/",
   "files": [
     "emt_140_bright_1.wav",

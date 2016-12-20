@@ -8,6 +8,7 @@
 - __license__: Public Domain
 - __name__: LM-2
 - __samples__: https://oramics.github.io/sampled/DM/LM-2/samples/
+- __source__: http://machines.hyperreal.org/manufacturers/Linn/LinnDrum/
 - __type__: Drum machine
 - __url__: https://oramics.github.io/sampled/DM/LM-2/
 
@@ -47,9 +48,10 @@
 
 ```json
 {
-  "name": "LM-2",
   "description": "LinnDrum LM-2",
+  "source": "http://machines.hyperreal.org/manufacturers/Linn/LinnDrum/",
   "license": "Public Domain",
+  "name": "LM-2",
   "url": "https://oramics.github.io/sampled/DM/LM-2/",
   "type": "Drum machine",
   "samples": "https://oramics.github.io/sampled/DM/LM-2/samples/",

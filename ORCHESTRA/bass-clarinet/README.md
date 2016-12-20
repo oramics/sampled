@@ -7,7 +7,9 @@
 - __description__: Bass clarinet samples from Philarmonia Orchestra
 - __license__: Creative Commons Attribution-ShareAlike 3.0 Unported License
 - __name__: bass-clarinet
+- __sample-name-pattern__: bass-clarinet_{Pitch}_{Length}_{Dynamic}_{Articulation}.mp3
 - __samples__: https://oramics.github.io/sampled/ORCHESTRA/bass-clarinet/samples/
+- __source__: http://www.philharmonia.co.uk/explore/sound_samples/oboe
 - __type__: Orchestra
 - __url__: https://oramics.github.io/sampled/ORCHESTRA/bass-clarinet/
 
@@ -962,9 +964,11 @@
 
 ```json
 {
-  "name": "bass-clarinet",
   "description": "Bass clarinet samples from Philarmonia Orchestra",
+  "source": "http://www.philharmonia.co.uk/explore/sound_samples/oboe",
   "license": "Creative Commons Attribution-ShareAlike 3.0 Unported License",
+  "sample-name-pattern": "bass-clarinet_{Pitch}_{Length}_{Dynamic}_{Articulation}.mp3",
+  "name": "bass-clarinet",
   "url": "https://oramics.github.io/sampled/ORCHESTRA/bass-clarinet/",
   "type": "Orchestra",
   "samples": "https://oramics.github.io/sampled/ORCHESTRA/bass-clarinet/samples/",

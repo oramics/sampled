@@ -2,10 +2,10 @@
 [Sampled](https://oramics.github.io/sampled) /
 [Test](/TEST)
 
-# TEST
+# Test audio files
 
 - __description__: Some audio files to perform audio testing
-- __name__: TEST
+- __name__: Test audio files
 - __samples__: https://oramics.github.io/sampled/TEST/audio/
 - __type__: Test
 - __url__: https://oramics.github.io/sampled/TEST/
@@ -18,8 +18,9 @@
 
 ```json
 {
-  "name": "TEST",
+  "name": "Test audio files",
   "description": "Some audio files to perform audio testing",
+  "samples": "https://oramics.github.io/sampled/TEST/audio/",
   "info": {
     "danse-macabre": {
       "description": "An orchestral piece of music with complex sound",
@@ -30,7 +31,6 @@
   },
   "url": "https://oramics.github.io/sampled/TEST/",
   "type": "Test",
-  "samples": "https://oramics.github.io/sampled/TEST/audio/",
   "files": [
     "kevin-macleod-danse-macabre-finale.mp3"
   ]

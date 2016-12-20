@@ -2,11 +2,11 @@
 [Sampled](https://oramics.github.io/sampled) /
 [Acoustic Drum](/DRUMS)
 
-# pearl-master-studio
+# Pearl Master Studio
 
 - __description__: Pearl Master Studio Pack 1 by enoe
 - __license__: Creative Commons Attribution 3.0
-- __name__: pearl-master-studio
+- __name__: Pearl Master Studio
 - __samples__: https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/
 - __type__: Acoustic Drum
 - __url__: https://oramics.github.io/sampled/DRUMS/pearl-master-studio/
@@ -33,10 +33,10 @@
 
 ```json
 {
-  "name": "pearl-master-studio",
+  "name": "Pearl Master Studio",
   "description": "Pearl Master Studio Pack 1 by enoe",
-  "license": "Creative Commons Attribution 3.0",
   "url": "https://oramics.github.io/sampled/DRUMS/pearl-master-studio/",
+  "license": "Creative Commons Attribution 3.0",
   "type": "Acoustic Drum",
   "samples": "https://oramics.github.io/sampled/DRUMS/pearl-master-studio/samples/",
   "files": [

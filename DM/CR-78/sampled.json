@@ -1,27 +1,5 @@
 {
-  "name": "CR-78",
   "description": "Roland CompuRythm CR-78",
-  "license": "Public Domain",
-  "url": "https://oramics.github.io/sampled/DM/CR-78/",
-  "type": "Drum machine",
-  "samples": "https://oramics.github.io/sampled/DM/CR-78/samples/",
-  "files": [
-    "bongo-h.wav",
-    "bongo-l.wav",
-    "conga-l.wav",
-    "cowbell.wav",
-    "cymbal.wav",
-    "guiro-long.wav",
-    "guiro-short.wav",
-    "hihat-accent.wav",
-    "hihat-metal.wav",
-    "hihat.wav",
-    "kick-accent.wav",
-    "kick.wav",
-    "rim.wav",
-    "snare-accent.wav",
-    "snare.wav",
-    "tamb-long.wav",
-    "tamb-short.wav"
-  ]
+  "source": "http://www.boxedear.com/free.html",
+  "license": "Public Domain"
 }

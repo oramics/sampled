@@ -2,12 +2,13 @@
 [Sampled](https://oramics.github.io/sampled) /
 [Impulse Response](/IR)
 
-# Voxengo
+# Voxengo-IR
 
 - __description__: Voxengo Free Reverb Impulse Responses
 - __license__: Permission is granted to anyone to use these impulse files royalty-free for any purpose, including commercial usage.
-- __name__: Voxengo
+- __name__: Voxengo-IR
 - __samples__: https://oramics.github.io/sampled/IR/Voxengo/samples/
+- __source__: http://www.voxengo.com/impulses/
 - __type__: Impulse Response
 - __url__: https://oramics.github.io/sampled/IR/Voxengo/
 
@@ -56,9 +57,11 @@
 
 ```json
 {
-  "name": "Voxengo",
+  "name": "Voxengo-IR",
   "description": "Voxengo Free Reverb Impulse Responses",
+  "source": "http://www.voxengo.com/impulses/",
   "license": "Permission is granted to anyone to use these impulse files royalty-free for any purpose, including commercial usage.",
+  "pack": false,
   "url": "https://oramics.github.io/sampled/IR/Voxengo/",
   "type": "Impulse Response",
   "samples": "https://oramics.github.io/sampled/IR/Voxengo/samples/",

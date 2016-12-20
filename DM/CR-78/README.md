@@ -8,6 +8,7 @@
 - __license__: Public Domain
 - __name__: CR-78
 - __samples__: https://oramics.github.io/sampled/DM/CR-78/samples/
+- __source__: http://www.boxedear.com/free.html
 - __type__: Drum machine
 - __url__: https://oramics.github.io/sampled/DM/CR-78/
 
@@ -35,9 +36,10 @@
 
 ```json
 {
-  "name": "CR-78",
   "description": "Roland CompuRythm CR-78",
+  "source": "http://www.boxedear.com/free.html",
   "license": "Public Domain",
+  "name": "CR-78",
   "url": "https://oramics.github.io/sampled/DM/CR-78/",
   "type": "Drum machine",
   "samples": "https://oramics.github.io/sampled/DM/CR-78/samples/",

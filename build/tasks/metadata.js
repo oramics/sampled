@@ -1,5 +1,5 @@
 const capitalize = require('to-capital-case')
-const CONFIG = '/sampled.config.json'
+const CONFIG = '/sampled.json'
 const GROUPS = {
   DM: 'Drum machine',
   IR: 'Impulse Response',
@@ -9,16 +9,19 @@ const GROUPS = {
 module.exports = function (repo) {
   return function (files) {
     const packages = []
+    const names = []
     for (var name in files) {
       if (name.endsWith(CONFIG)) {
         const config = repo.fileToObj(files[name])
         const meta = generateMetadata(config, name, files, repo.URL)
         const path = meta.url.slice(repo.URL.length + 1)
-        files[path + 'sampled.json'] = repo.objToFile(meta)
-        packages.push(name.slice(0, -CONFIG.length))
+        files[path + 'sampled.instrument.json'] = repo.objToFile(meta)
+        names.push(name.slice(0, -CONFIG.length))
+        packages.push(meta)
       }
     }
-    files['sampled.packages.json'] = repo.objToFile(packages)
+    files['sampled.packages.json'] = repo.objToFile(names)
+    files['sampled.packages.json'].packages = packages
   }
 }
 
@@ -28,11 +31,8 @@ function generateMetadata (config, name, files, URL) {
   const group = split[0]
   const parentName = split[split.length - 2]
 
-  const data = {}
+  const data = Object.assign({}, config)
   data.name = data.name || parentName
-  data.description = config.description
-  data.license = config.license
-  if (config.info) data.info = config.info
   data.url = `${URL}/${path}`
   data.type = GROUPS[group] || capitalize(group)
   var samples = config.samples || 'samples/'

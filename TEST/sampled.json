@@ -1,6 +1,7 @@
 {
-  "name": "TEST",
+  "name": "Test audio files",
   "description": "Some audio files to perform audio testing",
+  "samples": "audio/",
   "info": {
     "danse-macabre": {
       "description": "An orchestral piece of music with complex sound",
@@ -8,11 +9,5 @@
       "source": "http://freemusicarchive.org/music/Kevin_MacLeod/Classical_Sampler/Danse_Macabre_-_Finale",
       "license": "Creative Commons Attribution License"
     }
-  },
-  "url": "https://oramics.github.io/sampled/TEST/",
-  "type": "Test",
-  "samples": "https://oramics.github.io/sampled/TEST/audio/",
-  "files": [
-    "kevin-macleod-danse-macabre-finale.mp3"
-  ]
+  }
 }
