@@ -1,31 +1,29 @@
-const { getJSON, objToFile } = require('../utils')
 const capitalize = require('to-capital-case')
 const CONFIG = '/sampled.config.json'
-const URL = 'https://danigb.github.io/sampled'
 const GROUPS = {
   DM: 'Drum machine',
   IR: 'Impulse Response',
   DRUMS: 'Acoustic Drum'
 }
 
-module.exports = function () {
+module.exports = function (repo) {
   return function (files) {
     for (var name in files) {
       if (name.endsWith(CONFIG)) {
-        const meta = generateMetadata(name, files)
-        const path = meta.url.slice(URL.length + 1)
-        files[path + 'sampled.json'] = objToFile(meta)
+        const config = repo.fileToObj(files[name])
+        const meta = generateMetadata(config, name, files, repo.URL)
+        const path = meta.url.slice(repo.URL.length + 1)
+        files[path + 'sampled.json'] = repo.objToFile(meta)
       }
     }
   }
 }
 
-function generateMetadata (file, files) {
-  const split = file.split('/')
+function generateMetadata (config, name, files, URL) {
+  const split = name.split('/')
   const path = split.slice(0, -1).join('/') + '/'
   const group = split[0]
   const parentName = split[split.length - 2]
-  const config = getJSON(files[file])
 
   const data = {}
   data.name = data.name || parentName

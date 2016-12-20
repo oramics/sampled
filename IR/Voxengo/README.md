@@ -1,120 +1,107 @@
-[Sampled](https://danigb.github.io/sampled)
-/
-[Impulse Responses](https://danigb.github.io/sampled/IR)
 
-# Voxengo-IR
+[Sampled](https://danigb.github.io/sampled) /
+[Impulse Response](/IR)
 
-- __name__: Voxengo-IR
+# Voxengo
+
 - __description__: Voxengo Free Reverb Impulse Responses
-- __source__: http://www.voxengo.com/impulses/
 - __license__: Permission is granted to anyone to use these impulse files royalty-free for any purpose, including commercial usage.
-- __path__: IR/Voxengo/
-- __url__: https://danigb.github.io/sampled/IR/Voxengo/
+- __name__: Voxengo
+- __samples__: https://danigb.github.io/sampled/IR/Voxengo/samples/
 - __type__: Impulse Response
-- __samples__: samples/
-- __samplesURL__: https://danigb.github.io/sampled/IR/Voxengo/samples/
+- __url__: https://danigb.github.io/sampled/IR/Voxengo/
 
-### Samples
+## Samples
 
-- __Block Inside__: [block_inside.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/block_inside.wav)
-- __Bottle Hall__: [bottle_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/bottle_hall.wav)
-- __Cement Blocks 2__: [cement_blocks_2.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/cement_blocks_2.wav)
-- __Cement Blocks 1__: [cement_blocks_1.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/cement_blocks_1.wav)
-- __Chateau De Logne Outside__: [chateau_de_logne_outside.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/chateau_de_logne_outside.wav)
-- __Conic Long Echo Hall__: [conic_long_echo_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/conic_long_echo_hall.wav)
-- __Deep Space__: [deep_space.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/deep_space.wav)
-- __Derlon Sanctuary__: [derlon_sanctuary.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/derlon_sanctuary.wav)
-- __Direct Cabinet N1__: [direct_cabinet_n1.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/direct_cabinet_n1.wav)
-- __Direct Cabinet N2__: [direct_cabinet_n2.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/direct_cabinet_n2.wav)
-- __Direct Cabinet N3__: [direct_cabinet_n3.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/direct_cabinet_n3.wav)
-- __Direct Cabinet N4__: [direct_cabinet_n4.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/direct_cabinet_n4.wav)
-- __Five Columns__: [five_columns.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/five_columns.wav)
-- __Five Columns Long__: [five_columns_long.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/five_columns_long.wav)
-- __French 18th Century Salon__: [french_18th_century_salon.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/french_18th_century_salon.wav)
-- __Going Home__: [going_home.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/going_home.wav)
-- __Greek 7 Echo Hall__: [greek_7_echo_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/greek_7_echo_hall.wav)
-- __Highly Damped Large Room__: [highly_damped_large_room.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/highly_damped_large_room.wav)
-- __In The Silo__: [in_the_silo.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/in_the_silo.wav)
-- __In The Silo Revised__: [in_the_silo_revised.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/in_the_silo_revised.wav)
-- __Large Bottle Hall__: [large_bottle_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/large_bottle_hall.wav)
-- __Large Long Echo Hall__: [large_long_echo_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/large_long_echo_hall.wav)
-- __Large Wide Echo Hall__: [large_wide_echo_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/large_wide_echo_hall.wav)
-- __Masonic Lodge__: [masonic_lodge.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/masonic_lodge.wav)
-- __Musikvereinsaal__: [musikvereinsaal.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/musikvereinsaal.wav)
-- __Narrow Bumpy Space__: [narrow_bumpy_space.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/narrow_bumpy_space.wav)
-- __Nice Drum Room__: [nice_drum_room.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/nice_drum_room.wav)
-- __On A Star__: [on_a_star.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/on_a_star.wav)
-- __Parking Garage__: [parking_garage.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/parking_garage.wav)
-- __Rays__: [rays.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/rays.wav)
-- __Right Glass Triangle__: [right_glass_triangle.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/right_glass_triangle.wav)
-- __Ruby Room__: [ruby_room.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/ruby_room.wav)
-- __Scala Milan Opera Hall__: [scala_milan_opera_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/scala_milan_opera_hall.wav)
-- __Small Drum Room__: [small_drum_room.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/small_drum_room.wav)
-- __Small Prehistoric Cave__: [small_prehistoric_cave.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/small_prehistoric_cave.wav)
-- __St Nicolaes Church__: [st_nicolaes_church.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/st_nicolaes_church.wav)
-- __Trig Room__: [trig_room.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/trig_room.wav)
-- __Vocal Duo__: [vocal_duo.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/vocal_duo.wav)
+- __block_inside.wav__: [block_inside.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/block_inside.wav)
+- __bottle_hall.wav__: [bottle_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/bottle_hall.wav)
+- __cement_blocks_1.wav__: [cement_blocks_1.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/cement_blocks_1.wav)
+- __cement_blocks_2.wav__: [cement_blocks_2.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/cement_blocks_2.wav)
+- __chateau_de_logne_outside.wav__: [chateau_de_logne_outside.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/chateau_de_logne_outside.wav)
+- __conic_long_echo_hall.wav__: [conic_long_echo_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/conic_long_echo_hall.wav)
+- __deep_space.wav__: [deep_space.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/deep_space.wav)
+- __derlon_sanctuary.wav__: [derlon_sanctuary.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/derlon_sanctuary.wav)
+- __direct_cabinet_n1.wav__: [direct_cabinet_n1.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/direct_cabinet_n1.wav)
+- __direct_cabinet_n2.wav__: [direct_cabinet_n2.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/direct_cabinet_n2.wav)
+- __direct_cabinet_n3.wav__: [direct_cabinet_n3.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/direct_cabinet_n3.wav)
+- __direct_cabinet_n4.wav__: [direct_cabinet_n4.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/direct_cabinet_n4.wav)
+- __five_columns.wav__: [five_columns.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/five_columns.wav)
+- __five_columns_long.wav__: [five_columns_long.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/five_columns_long.wav)
+- __french_18th_century_salon.wav__: [french_18th_century_salon.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/french_18th_century_salon.wav)
+- __going_home.wav__: [going_home.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/going_home.wav)
+- __greek_7_echo_hall.wav__: [greek_7_echo_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/greek_7_echo_hall.wav)
+- __highly_damped_large_room.wav__: [highly_damped_large_room.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/highly_damped_large_room.wav)
+- __in_the_silo.wav__: [in_the_silo.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/in_the_silo.wav)
+- __in_the_silo_revised.wav__: [in_the_silo_revised.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/in_the_silo_revised.wav)
+- __large_bottle_hall.wav__: [large_bottle_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/large_bottle_hall.wav)
+- __large_long_echo_hall.wav__: [large_long_echo_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/large_long_echo_hall.wav)
+- __large_wide_echo_hall.wav__: [large_wide_echo_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/large_wide_echo_hall.wav)
+- __masonic_lodge.wav__: [masonic_lodge.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/masonic_lodge.wav)
+- __musikvereinsaal.wav__: [musikvereinsaal.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/musikvereinsaal.wav)
+- __narrow_bumpy_space.wav__: [narrow_bumpy_space.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/narrow_bumpy_space.wav)
+- __nice_drum_room.wav__: [nice_drum_room.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/nice_drum_room.wav)
+- __on_a_star.wav__: [on_a_star.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/on_a_star.wav)
+- __parking_garage.wav__: [parking_garage.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/parking_garage.wav)
+- __rays.wav__: [rays.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/rays.wav)
+- __right_glass_triangle.wav__: [right_glass_triangle.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/right_glass_triangle.wav)
+- __ruby_room.wav__: [ruby_room.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/ruby_room.wav)
+- __scala_milan_opera_hall.wav__: [scala_milan_opera_hall.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/scala_milan_opera_hall.wav)
+- __small_drum_room.wav__: [small_drum_room.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/small_drum_room.wav)
+- __small_prehistoric_cave.wav__: [small_prehistoric_cave.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/small_prehistoric_cave.wav)
+- __st_nicolaes_church.wav__: [st_nicolaes_church.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/st_nicolaes_church.wav)
+- __trig_room.wav__: [trig_room.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/trig_room.wav)
+- __vocal_duo.wav__: [vocal_duo.wav](https://danigb.github.io/sampled/IR/Voxengo/samples/vocal_duo.wav)
 
+## Metadata
 
-
-
-
-### Metadata
-
-[sampled.json](https://danigb.github.io/sampled/IR/Voxengo/sampled.json)
-
-```
+```json
 {
-  "name": "Voxengo-IR",
+  "name": "Voxengo",
   "description": "Voxengo Free Reverb Impulse Responses",
-  "source": "http://www.voxengo.com/impulses/",
   "license": "Permission is granted to anyone to use these impulse files royalty-free for any purpose, including commercial usage.",
-  "pack": false,
-  "path": "IR/Voxengo/",
   "url": "https://danigb.github.io/sampled/IR/Voxengo/",
   "type": "Impulse Response",
-  "files": {
-    "Block Inside": "block_inside.wav",
-    "Bottle Hall": "bottle_hall.wav",
-    "Cement Blocks 2": "cement_blocks_2.wav",
-    "Cement Blocks 1": "cement_blocks_1.wav",
-    "Chateau De Logne Outside": "chateau_de_logne_outside.wav",
-    "Conic Long Echo Hall": "conic_long_echo_hall.wav",
-    "Deep Space": "deep_space.wav",
-    "Derlon Sanctuary": "derlon_sanctuary.wav",
-    "Direct Cabinet N1": "direct_cabinet_n1.wav",
-    "Direct Cabinet N2": "direct_cabinet_n2.wav",
-    "Direct Cabinet N3": "direct_cabinet_n3.wav",
-    "Direct Cabinet N4": "direct_cabinet_n4.wav",
-    "Five Columns": "five_columns.wav",
-    "Five Columns Long": "five_columns_long.wav",
-    "French 18th Century Salon": "french_18th_century_salon.wav",
-    "Going Home": "going_home.wav",
-    "Greek 7 Echo Hall": "greek_7_echo_hall.wav",
-    "Highly Damped Large Room": "highly_damped_large_room.wav",
-    "In The Silo": "in_the_silo.wav",
-    "In The Silo Revised": "in_the_silo_revised.wav",
-    "Large Bottle Hall": "large_bottle_hall.wav",
-    "Large Long Echo Hall": "large_long_echo_hall.wav",
-    "Large Wide Echo Hall": "large_wide_echo_hall.wav",
-    "Masonic Lodge": "masonic_lodge.wav",
-    "Musikvereinsaal": "musikvereinsaal.wav",
-    "Narrow Bumpy Space": "narrow_bumpy_space.wav",
-    "Nice Drum Room": "nice_drum_room.wav",
-    "On A Star": "on_a_star.wav",
-    "Parking Garage": "parking_garage.wav",
-    "Rays": "rays.wav",
-    "Right Glass Triangle": "right_glass_triangle.wav",
-    "Ruby Room": "ruby_room.wav",
-    "Scala Milan Opera Hall": "scala_milan_opera_hall.wav",
-    "Small Drum Room": "small_drum_room.wav",
-    "Small Prehistoric Cave": "small_prehistoric_cave.wav",
-    "St Nicolaes Church": "st_nicolaes_church.wav",
-    "Trig Room": "trig_room.wav",
-    "Vocal Duo": "vocal_duo.wav"
-  },
-  "samples": "samples/",
-  "samplesURL": "https://danigb.github.io/sampled/IR/Voxengo/samples/"
+  "samples": "https://danigb.github.io/sampled/IR/Voxengo/samples/",
+  "files": [
+    "block_inside.wav",
+    "bottle_hall.wav",
+    "cement_blocks_1.wav",
+    "cement_blocks_2.wav",
+    "chateau_de_logne_outside.wav",
+    "conic_long_echo_hall.wav",
+    "deep_space.wav",
+    "derlon_sanctuary.wav",
+    "direct_cabinet_n1.wav",
+    "direct_cabinet_n2.wav",
+    "direct_cabinet_n3.wav",
+    "direct_cabinet_n4.wav",
+    "five_columns.wav",
+    "five_columns_long.wav",
+    "french_18th_century_salon.wav",
+    "going_home.wav",
+    "greek_7_echo_hall.wav",
+    "highly_damped_large_room.wav",
+    "in_the_silo.wav",
+    "in_the_silo_revised.wav",
+    "large_bottle_hall.wav",
+    "large_long_echo_hall.wav",
+    "large_wide_echo_hall.wav",
+    "masonic_lodge.wav",
+    "musikvereinsaal.wav",
+    "narrow_bumpy_space.wav",
+    "nice_drum_room.wav",
+    "on_a_star.wav",
+    "parking_garage.wav",
+    "rays.wav",
+    "right_glass_triangle.wav",
+    "ruby_room.wav",
+    "scala_milan_opera_hall.wav",
+    "small_drum_room.wav",
+    "small_prehistoric_cave.wav",
+    "st_nicolaes_church.wav",
+    "trig_room.wav",
+    "vocal_duo.wav"
+  ]
 }
 ```
 

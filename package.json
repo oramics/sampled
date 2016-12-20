@@ -31,5 +31,8 @@
     "showdown": "^1.5.1",
     "to-capital-case": "^1.0.0",
     "to-snake-case": "^1.0.0"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.6"
   }
 }

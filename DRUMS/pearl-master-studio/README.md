@@ -1,71 +1,61 @@
-[Sampled](https://danigb.github.io/sampled)
-/
-[Acoustic Drums](https://danigb.github.io/sampled/DRUMS)
 
-# Pearl Master Studio
+[Sampled](https://danigb.github.io/sampled) /
+[Acoustic Drum](/DRUMS)
 
-- __name__: Pearl Master Studio
+# pearl-master-studio
+
 - __description__: Pearl Master Studio Pack 1 by enoe
-- __url__: https://danigb.github.io/sampled/DRUMS/pearl-master-studio/
 - __license__: Creative Commons Attribution 3.0
-- __path__: DRUMS/pearl-master-studio/
+- __name__: pearl-master-studio
+- __samples__: https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/
 - __type__: Acoustic Drum
-- __samples__: samples/
-- __samplesURL__: https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/
+- __url__: https://danigb.github.io/sampled/DRUMS/pearl-master-studio/
 
-### Samples
+## Samples
 
-- __Crash 01__: [crash-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/crash-01.wav)
-- __Crash 02__: [crash-02.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/crash-02.wav)
-- __Hihat Closed__: [hihat-closed.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/hihat-closed.wav)
-- __Hihat Open__: [hihat-open.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/hihat-open.wav)
-- __Kick 01__: [kick-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/kick-01.wav)
-- __Ride 01__: [ride-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/ride-01.wav)
-- __Ride 02__: [ride-02.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/ride-02.wav)
-- __Snare 01__: [snare-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/snare-01.wav)
-- __Snare 02__: [snare-02.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/snare-02.wav)
-- __Snare 03__: [snare-03.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/snare-03.wav)
-- __Splash 01__: [splash-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/splash-01.wav)
-- __Splash 02__: [splash-02.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/splash-02.wav)
-- __Tom 01__: [tom-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-01.wav)
-- __Tom 02__: [tom-02.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-02.wav)
-- __Tom 03__: [tom-03.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-03.wav)
+- __crash-01.wav__: [crash-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/crash-01.wav)
+- __crash-02.wav__: [crash-02.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/crash-02.wav)
+- __hihat-closed.wav__: [hihat-closed.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/hihat-closed.wav)
+- __hihat-open.wav__: [hihat-open.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/hihat-open.wav)
+- __kick-01.wav__: [kick-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/kick-01.wav)
+- __ride-01.wav__: [ride-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/ride-01.wav)
+- __ride-02.wav__: [ride-02.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/ride-02.wav)
+- __snare-01.wav__: [snare-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/snare-01.wav)
+- __snare-02.wav__: [snare-02.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/snare-02.wav)
+- __snare-03.wav__: [snare-03.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/snare-03.wav)
+- __splash-01.wav__: [splash-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/splash-01.wav)
+- __splash-02.wav__: [splash-02.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/splash-02.wav)
+- __tom-01.wav__: [tom-01.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-01.wav)
+- __tom-02.wav__: [tom-02.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-02.wav)
+- __tom-03.wav__: [tom-03.wav](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/tom-03.wav)
 
+## Metadata
 
-
-
-
-### Metadata
-
-[sampled.json](https://danigb.github.io/sampled/DRUMS/pearl-master-studio/sampled.json)
-
-```
+```json
 {
-  "name": "Pearl Master Studio",
+  "name": "pearl-master-studio",
   "description": "Pearl Master Studio Pack 1 by enoe",
-  "url": "https://danigb.github.io/sampled/DRUMS/pearl-master-studio/",
   "license": "Creative Commons Attribution 3.0",
-  "path": "DRUMS/pearl-master-studio/",
+  "url": "https://danigb.github.io/sampled/DRUMS/pearl-master-studio/",
   "type": "Acoustic Drum",
-  "files": {
-    "Crash 01": "crash-01.wav",
-    "Crash 02": "crash-02.wav",
-    "Hihat Closed": "hihat-closed.wav",
-    "Hihat Open": "hihat-open.wav",
-    "Kick 01": "kick-01.wav",
-    "Ride 01": "ride-01.wav",
-    "Ride 02": "ride-02.wav",
-    "Snare 01": "snare-01.wav",
-    "Snare 02": "snare-02.wav",
-    "Snare 03": "snare-03.wav",
-    "Splash 01": "splash-01.wav",
-    "Splash 02": "splash-02.wav",
-    "Tom 01": "tom-01.wav",
-    "Tom 02": "tom-02.wav",
-    "Tom 03": "tom-03.wav"
-  },
-  "samples": "samples/",
-  "samplesURL": "https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/"
+  "samples": "https://danigb.github.io/sampled/DRUMS/pearl-master-studio/samples/",
+  "files": [
+    "crash-01.wav",
+    "crash-02.wav",
+    "hihat-closed.wav",
+    "hihat-open.wav",
+    "kick-01.wav",
+    "ride-01.wav",
+    "ride-02.wav",
+    "snare-01.wav",
+    "snare-02.wav",
+    "snare-03.wav",
+    "splash-01.wav",
+    "splash-02.wav",
+    "tom-01.wav",
+    "tom-02.wav",
+    "tom-03.wav"
+  ]
 }
 ```
 
