@@ -1,24 +1,20 @@
 {
-  "description": "Maestro Rhythm King MRK-2",
-  "image": "http://www.submodern.com/slowburn/wp-content/uploads/2007/09/maestro480.jpg",
-  "source": "http://www.submodern.com/slowburn/?p=736",
-  "license": "Public Domain",
   "name": "MRK-2",
-  "path": "DM/MRK-2/",
+  "description": "Maestro Rhythm King MRK-2",
+  "license": "Public Domain",
   "url": "https://danigb.github.io/sampled/DM/MRK-2/",
   "type": "Drum machine",
-  "files": {
-    "Block": "block.wav",
-    "Bongo": "bongo.wav",
-    "Clave": "clave.wav",
-    "Cymball Long": "cymball-long.wav",
-    "Cymball Short": "cymball-short.wav",
-    "Hihat Closed": "hihat-closed.wav",
-    "Hihat Open": "hihat-open.wav",
-    "Kick": "kick.wav",
-    "Snare": "snare.wav",
-    "Tom": "tom.wav"
-  },
-  "samples": "samples/",
-  "samplesURL": "https://danigb.github.io/sampled/DM/MRK-2/samples/"
+  "samples": "https://danigb.github.io/sampled/DM/MRK-2/samples/",
+  "files": [
+    "block.wav",
+    "bongo.wav",
+    "clave.wav",
+    "cymball-long.wav",
+    "cymball-short.wav",
+    "hihat-closed.wav",
+    "hihat-open.wav",
+    "kick.wav",
+    "snare.wav",
+    "tom.wav"
+  ]
 }
