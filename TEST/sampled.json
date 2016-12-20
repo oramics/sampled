@@ -1,0 +1,16 @@
+{
+  "name": "TEST",
+  "description": "Some audio files to perform audio testing",
+  "info": {
+    "danse-macabre": {
+      "description": "An orchestral piece of music with complex sound",
+      "duration": "0:21"
+    }
+  },
+  "url": "https://danigb.github.io/sampled/TEST/",
+  "type": "Test",
+  "samples": "https://danigb.github.io/sampled/TEST/audio/",
+  "files": [
+    "kevin-macleod-danse-macabre-finale.mp3"
+  ]
+}

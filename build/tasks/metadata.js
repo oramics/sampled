@@ -29,6 +29,7 @@ function generateMetadata (config, name, files, URL) {
   data.name = data.name || parentName
   data.description = config.description
   data.license = config.license
+  if (config.info) data.info = config.info
   data.url = `${URL}/${path}`
   data.type = GROUPS[group] || capitalize(group)
   var samples = config.samples || 'samples/'

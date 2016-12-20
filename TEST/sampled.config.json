@@ -1,0 +1,11 @@
+{
+  "name": "Test audio files",
+  "description": "Some audio files to perform audio testing",
+  "samples": "audio/",
+  "info": {
+    "danse-macabre": {
+      "description": "An orchestral piece of music with complex sound",
+      "duration": "0:21"
+    }
+  }
+}
