@@ -15,16 +15,16 @@
 
 ## Samples
 
-- __`block.wav`__: [`block.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/block.wav)
-- __`bongo.wav`__: [`bongo.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/bongo.wav)
-- __`clave.wav`__: [`clave.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/clave.wav)
-- __`cymball-long.wav`__: [`cymball-long.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/cymball-long.wav)
-- __`cymball-short.wav`__: [`cymball-short.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/cymball-short.wav)
-- __`hihat-closed.wav`__: [`hihat-closed.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/hihat-closed.wav)
-- __`hihat-open.wav`__: [`hihat-open.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/hihat-open.wav)
-- __`kick.wav`__: [`kick.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/kick.wav)
-- __`snare.wav`__: [`snare.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/snare.wav)
-- __`tom.wav`__: [`tom.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/tom.wav)
+- [`block.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/block.wav)
+- [`bongo.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/bongo.wav)
+- [`clave.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/clave.wav)
+- [`cymball-long.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/cymball-long.wav)
+- [`cymball-short.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/cymball-short.wav)
+- [`hihat-closed.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/hihat-closed.wav)
+- [`hihat-open.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/hihat-open.wav)
+- [`kick.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/kick.wav)
+- [`snare.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/snare.wav)
+- [`tom.wav`](https://oramics.github.io/sampled/DM/MRK-2/samples/tom.wav)
 
 ## Metadata
 

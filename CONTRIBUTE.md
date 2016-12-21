@@ -4,13 +4,16 @@ To contribute to this project you have to:
 
 - Fork this repository
 - Create a directory with the name of the instrument
-- Create a sampled.config.json file with metadata information
+- Create a sampled.json file with metadata information
 - Create a subdirectory called samples with the audio files
+- Run `npm run build`
 - Make a pull request
 
-## sampled.config.json
+## sampled.json
 
-The configuration file __must__ contain:
+The information is stored in a file called `sampled.json`. With this information, the build process create some other `sampled.*.json` files with additional information. The most important is the `sampled.instrument.json` which contains a list of all audio files.
+
+The sampled.json file __must__ contain:
 
 - __description__: A text description
 - __source__: an url to the source

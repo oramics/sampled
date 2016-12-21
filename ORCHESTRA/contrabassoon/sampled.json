@@ -1,0 +1,6 @@
+{
+  "description": "Contrabasson samples from Philarmonia Orchestra",
+  "source": "http://www.philharmonia.co.uk/explore/sound_samples/contrabasson",
+  "license": "Creative Commons Attribution-ShareAlike 3.0 Unported License",
+  "sample-name-pattern": "contrabasson_{Pitch}_{Length}_{Dynamic}_{Articulation}.mp3"
+}

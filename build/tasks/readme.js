@@ -38,7 +38,7 @@ const README =
 ## Samples
 
 {{#each meta.files}}
-- __\`{{this}}\`__: [\`{{this}}\`]({{../meta.samples}}{{this}})
+- [\`{{this}}\`]({{../meta.samples}}{{this}})
 {{/each}}
 
 ## Metadata

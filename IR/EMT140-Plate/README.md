@@ -14,21 +14,21 @@
 
 ## Samples
 
-- __`emt_140_bright_1.wav`__: [`emt_140_bright_1.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_1.wav)
-- __`emt_140_bright_2.wav`__: [`emt_140_bright_2.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_2.wav)
-- __`emt_140_bright_3.wav`__: [`emt_140_bright_3.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_3.wav)
-- __`emt_140_bright_4.wav`__: [`emt_140_bright_4.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_4.wav)
-- __`emt_140_bright_5.wav`__: [`emt_140_bright_5.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_5.wav)
-- __`emt_140_dark_1.wav`__: [`emt_140_dark_1.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_1.wav)
-- __`emt_140_dark_2.wav`__: [`emt_140_dark_2.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_2.wav)
-- __`emt_140_dark_3.wav`__: [`emt_140_dark_3.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_3.wav)
-- __`emt_140_dark_4.wav`__: [`emt_140_dark_4.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_4.wav)
-- __`emt_140_dark_5.wav`__: [`emt_140_dark_5.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_5.wav)
-- __`emt_140_medium_1.wav`__: [`emt_140_medium_1.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_1.wav)
-- __`emt_140_medium_2.wav`__: [`emt_140_medium_2.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_2.wav)
-- __`emt_140_medium_3.wav`__: [`emt_140_medium_3.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_3.wav)
-- __`emt_140_medium_4.wav`__: [`emt_140_medium_4.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_4.wav)
-- __`emt_140_medium_5.wav`__: [`emt_140_medium_5.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_5.wav)
+- [`emt_140_bright_1.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_1.wav)
+- [`emt_140_bright_2.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_2.wav)
+- [`emt_140_bright_3.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_3.wav)
+- [`emt_140_bright_4.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_4.wav)
+- [`emt_140_bright_5.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_bright_5.wav)
+- [`emt_140_dark_1.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_1.wav)
+- [`emt_140_dark_2.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_2.wav)
+- [`emt_140_dark_3.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_3.wav)
+- [`emt_140_dark_4.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_4.wav)
+- [`emt_140_dark_5.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_dark_5.wav)
+- [`emt_140_medium_1.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_1.wav)
+- [`emt_140_medium_2.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_2.wav)
+- [`emt_140_medium_3.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_3.wav)
+- [`emt_140_medium_4.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_4.wav)
+- [`emt_140_medium_5.wav`](https://oramics.github.io/sampled/IR/EMT140-Plate/samples/emt_140_medium_5.wav)
 
 ## Metadata
 

@@ -12,7 +12,7 @@
 
 ## Samples
 
-- __`kevin-macleod-danse-macabre-finale.mp3`__: [`kevin-macleod-danse-macabre-finale.mp3`](https://oramics.github.io/sampled/TEST/audio/kevin-macleod-danse-macabre-finale.mp3)
+- [`kevin-macleod-danse-macabre-finale.mp3`](https://oramics.github.io/sampled/TEST/audio/kevin-macleod-danse-macabre-finale.mp3)
 
 ## Metadata
 
